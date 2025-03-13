@@ -18,7 +18,7 @@
 * Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
-* E07: Ejercicio en clases > Login Student > PATRONES2025 [[Socrative]](http://www.socrative.com)
+* E07: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * **Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
@@ -41,4 +41,4 @@
 ---
 
 
-Updated on 11-Mar-2025 at 09:43 by Domingo Mery
+Updated on 13-Mar-2025 at 09:23 by Domingo Mery
