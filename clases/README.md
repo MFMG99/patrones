@@ -17,7 +17,6 @@
 ### Clase 02 Ju. 13-Mar-2025:
 * 1.2-**Video de esta clase** [[YouTube]](https://youtu.be/imt2H2nKitA)
 * 1.2-Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
-* 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.1-Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.1-E00: Ejercicio en clases (SIN NOTA)  > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
@@ -27,6 +26,7 @@
 * 1.1-E01: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * 1.2-Extraccion de caracteristicas para el problema J y Q [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_JQ.pptx)
 * 1.2-[VC] Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
+* 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 13-Mar-2025 at 09:23 by Domingo Mery
+Updated on 17-Mar-2025 at 08:59 by Domingo Mery
