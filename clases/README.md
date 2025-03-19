@@ -35,7 +35,7 @@
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1-Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1as-P-0jA2QePQ9bhnds9_YQZP2n-GvPQ)
+* 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * 2.1-E02: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 17-Mar-2025 at 08:59 by Domingo Mery
+Updated on 19-Mar-2025 at 13:09 by Domingo Mery
