@@ -31,7 +31,7 @@
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
 ### Clase 04 Ju. 20-Mar-2025:
-* 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
+* 2.1-**Video de esta clase (2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1-Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 24-Mar-2025 at 09:04 by Domingo Mery
+Updated on 24-Mar-2025 at 12:20 by Domingo Mery

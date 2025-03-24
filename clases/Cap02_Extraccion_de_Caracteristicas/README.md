@@ -1,7 +1,7 @@
 
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Caracteristicas geometricas:
-* **Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
+* **Video de esta clase (2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
 * Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
@@ -59,4 +59,4 @@
 ---
 
 
-Updated on 24-Mar-2025 at 09:04 by Domingo Mery
+Updated on 24-Mar-2025 at 12:20 by Domingo Mery
