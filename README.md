@@ -49,7 +49,7 @@
 * 2.1-**Video clase de Descriptores de Fourier (version 2025)** [[YouTube]](https://youtu.be/MjsuVwqTeX8)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
-* 2.2-**Video clase de Local Binary Patterns - LBP  (version 2025)** [[YouTube]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//https://youtu.be/JWVYnlyjK6Y)
+* 2.2-**Video clase de Local Binary Patterns - LBP  (version 2025)** [[YouTube]](https://youtu.be/JWVYnlyjK6Y)
 
 ### Clase 06 Ju. 27-Mar-2025:
 * 2.2-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Wp1F4d50b38)
@@ -228,4 +228,4 @@
 ---
 
 
-Updated on 25-Mar-2025 at 14:43 by Domingo Mery
+Updated on 25-Mar-2025 at 14:44 by Domingo Mery

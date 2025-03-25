@@ -18,7 +18,7 @@
 ### 2.2 Caracteristicas cromaticas:
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
-* **Video clase de Local Binary Patterns - LBP  (version 2025)** [[YouTube]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//https://youtu.be/JWVYnlyjK6Y)
+* **Video clase de Local Binary Patterns - LBP  (version 2025)** [[YouTube]](https://youtu.be/JWVYnlyjK6Y)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
@@ -62,4 +62,4 @@
 ---
 
 
-Updated on 25-Mar-2025 at 14:43 by Domingo Mery
+Updated on 25-Mar-2025 at 14:44 by Domingo Mery
