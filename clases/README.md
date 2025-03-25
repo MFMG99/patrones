@@ -31,7 +31,7 @@
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
 ### Clase 04 Ju. 20-Mar-2025:
-* 2.1-**Video de esta clase (2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* 2.1-**Video Características Geometricas Basicas y Momentos de Hu y Flusser (2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1-Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
@@ -44,12 +44,15 @@
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
 * 2.1-Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * 2.1-Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
+* 2.1-Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 * 2.1-Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
+* 2.1-**Video Descriptores de Fourier (2025)** [[YouTube]](https://youtu.be/MjsuVwqTeX8)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
+* 2.2-**Video LBP (2025)** [[YouTube]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//https://youtu.be/JWVYnlyjK6Y)
 
 ### Clase 06 Ju. 27-Mar-2025:
-* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
+* 2.2-**Video de esta clase (2021)** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
@@ -225,4 +228,4 @@
 ---
 
 
-Updated on 24-Mar-2025 at 12:20 by Domingo Mery
+Updated on 25-Mar-2025 at 13:33 by Domingo Mery
