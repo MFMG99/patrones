@@ -5,21 +5,21 @@
 * Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * Explicacion de Tarea 02 [[Canvas]](https://cursos.canvas.uc.cl/courses/67528/assignments/383595)
-* **Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
-* **Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
 * Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 ### 3.2 Analisis de componentes principales:
 ### 3.3 Discriminante Fisher:
-* **Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
 * Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* **Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * E07: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* **Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
@@ -41,4 +41,4 @@
 ---
 
 
-Updated on 25-Mar-2025 at 13:33 by Domingo Mery
+Updated on 25-Mar-2025 at 14:40 by Domingo Mery

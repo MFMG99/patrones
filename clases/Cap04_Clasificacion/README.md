@@ -1,13 +1,13 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Introduccion:
-* **Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * Visualizacion del espacio de caracteristicas [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
-* **Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
-* **Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
-* **Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
@@ -16,7 +16,7 @@
 * Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
 * E09: Ejercicio en clases > Quiz [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
-* **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * Arboles de decision [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 ### 4.4 Clasificador de Bayes:
@@ -30,7 +30,7 @@
 * Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 * Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
 ### 4.6 Redes neuronales:
-* **Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
+* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Kq95OH9Vnu-prrhYeThaq6pDnupfEDOD/view)
@@ -51,4 +51,4 @@
 ---
 
 
-Updated on 25-Mar-2025 at 13:33 by Domingo Mery
+Updated on 25-Mar-2025 at 14:40 by Domingo Mery
