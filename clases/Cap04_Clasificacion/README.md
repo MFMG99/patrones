@@ -14,7 +14,7 @@
 * Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
 * Set de validacion para hiperparametros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
 * Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
-* &nbsp; Quiz [[Socrative]](http://www.socrative.com)
+* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Quiz [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
@@ -51,4 +51,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 10:02 by Domingo Mery
+Updated on 26-Mar-2025 at 10:04 by Domingo Mery
