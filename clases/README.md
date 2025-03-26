@@ -4,11 +4,11 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 11-Mar-2025:
-* 0.1-** PRESENTACION DEL CURSO **
+* 0.1-**PRESENTACION DEL CURSO**
 * 0.1-&nbsp; &nbsp; &nbsp;  Video: Clase de presentacion al curso (version 2021) [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 * 0.1-&nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * 0.1-&nbsp; &nbsp; &nbsp;  PPT: Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
-* 0.1-** Bibliografia del Curso**
+* 0.1-**Bibliografia**
 * 0.1-&nbsp; &nbsp; &nbsp;  Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
 * 0.1-&nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.1-&nbsp; &nbsp; &nbsp;  Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -17,7 +17,7 @@
 * 0.1-&nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 
 ### Clase 02 Ju. 13-Mar-2025:
-* 1.1-** INTRODUCCION **
+* 1.1-**INTRODUCCION**
 * 1.1-&nbsp; &nbsp; &nbsp;  Video: Introduccion al curso (version 2021) [[YouTube]](https://youtu.be/imt2H2nKitA)
 * 1.1-&nbsp; &nbsp; &nbsp;  PPT: Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * 1.2-&nbsp; &nbsp; &nbsp;  PPT: Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
@@ -26,7 +26,7 @@
 * 1.1-&nbsp; &nbsp; &nbsp;  E00: Quiz de marcha blanca sin nota (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 03 Ma. 18-Mar-2025:
-* 1.1-** INTRODUCCION **
+* 1.1-**DEFINICIONES Y EJEMPLOS**
 * 1.3-&nbsp; &nbsp; &nbsp;  Video: Clase de metodologia y ejemplos (version 2021) [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.5-&nbsp; &nbsp; &nbsp;  PPT: Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.4-&nbsp; &nbsp; &nbsp;  PPT: Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
@@ -38,7 +38,7 @@
 ### Clase 04 Ju. 20-Mar-2025:
 * 2.1-**CARACTERISTICAS GEOMETRICAS**
 * 2.1-&nbsp; &nbsp; &nbsp;  Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
-* 2.1-&nbsp; &nbsp; &nbsp;  Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2021) [[]](https://youtu.be/SMCEHYR9Pik)
+* 2.1-&nbsp; &nbsp; &nbsp;  Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2021) [[YouTube]](https://youtu.be/SMCEHYR9Pik)
 * 2.1-&nbsp; &nbsp; &nbsp;  PPT: Caracteristicas geometricas basicas y momentos de Hu y Flusser [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-&nbsp; &nbsp; &nbsp;  Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1-&nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
@@ -236,4 +236,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 10:31 by Domingo Mery
+Updated on 26-Mar-2025 at 10:34 by Domingo Mery

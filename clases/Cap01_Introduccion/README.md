@@ -1,12 +1,12 @@
 
 # Capitulo 01: Introduccion
 ### 1.1 Que es reconocimiento de patrones?:
-* ** INTRODUCCION ** 
+* **INTRODUCCION** 
 * > Video: Introduccion al curso (version 2021) [[YouTube]](https://youtu.be/imt2H2nKitA)
 * > PPT: Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * > PPT: Ejemplo de Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * > E00: Quiz de marcha blanca sin nota (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* ** INTRODUCCION ** 
+* **DEFINICIONES Y EJEMPLOS** 
 * > E01: Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ### 1.2 Un ejemplo practico:
 * > PPT: Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
@@ -23,4 +23,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 10:31 by Domingo Mery
+Updated on 26-Mar-2025 at 10:34 by Domingo Mery
