@@ -2,11 +2,11 @@
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Caracteristicas geometricas:
 * **CARACTERISTICAS GEOMETRICAS** 
-* > Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
-* > Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2021) [[YouTube]](https://youtu.be/SMCEHYR9Pik)
-* > PPT: Caracteristicas geometricas basicas y momentos de Hu y Flusser [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
+* > Video: Clase de características geometricas basicas y momentos (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* > Video: Clase de caracteristicas geometricas basicas y momentos (version 2021) [[YouTube]](https://youtu.be/SMCEHYR9Pik)
+* > PPT: Caracteristicas geometricas basicas y momentos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * > Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
-* > Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* > Pyhton: Ejemplo sobre caracteristicas geometricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * > Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
 * > Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * > Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
@@ -65,4 +65,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 10:47 by Domingo Mery
+Updated on 26-Mar-2025 at 10:48 by Domingo Mery
