@@ -5,15 +5,16 @@
 * Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* [VC] Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * E02: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/tNMZQr4csWU)
+* TESTING 
 * Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
 * Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
-* Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
+* [VC] Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
 * **Video clase de Descriptores de Fourier (version 2025)** [[YouTube]](https://youtu.be/MjsuVwqTeX8)
 ### 2.2 Caracteristicas cromaticas:
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
@@ -21,7 +22,7 @@
 * **Video clase de Local Binary Patterns - LBP  (version 2025)** [[YouTube]](https://youtu.be/JWVYnlyjK6Y)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
+* [VC] Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * E03: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
@@ -31,7 +32,7 @@
 * Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
 * Paper de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * Aplicacion de caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
-* Ejemplo sobre reconocimiento de texturas [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
+* [VC] Ejemplo sobre reconocimiento de texturas [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
 * Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
@@ -41,11 +42,11 @@
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
-* Deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
+* [VC] Deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
-* Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
+* [VC] Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
@@ -55,11 +56,11 @@
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
+* [VC] Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 ### 2.3 Otras caracteristicas:
 ### 2.4 Normalizacion de caracteristicas:
 ### 2.5 Ejemplos:
 ---
 
 
-Updated on 25-Mar-2025 at 14:44 by Domingo Mery
+Updated on 26-Mar-2025 at 09:39 by Domingo Mery
