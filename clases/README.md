@@ -31,14 +31,17 @@
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
 ### Clase 04 Ju. 20-Mar-2025:
-* 2.1-**Video Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
-* 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
-* 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
-* 2.1-Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* 2.1-[VC] Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
-* 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.1-E02: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 2.1-**CARACTERISTICAS GEOMETRICAS**
+
+### Clase 04 Ju. 20-Mar-2025:
+* 2.1---- **Video Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* 2.1---- PPT Caracteristicas geometricas basicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
+* 2.1---- Apuntes Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* 2.1---- Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
+* 2.1---- Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.1---- Paper: Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
+* 2.1---- Paper: Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
+* 2.1---- E02: Ejercicio en clases > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 05 Ma. 25-Mar-2025:
 * 2.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/tNMZQr4csWU)
@@ -229,4 +232,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 09:42 by Domingo Mery
+Updated on 26-Mar-2025 at 09:48 by Domingo Mery
