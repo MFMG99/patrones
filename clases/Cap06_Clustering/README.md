@@ -11,9 +11,9 @@
 ### 6.3 Bag of Words:
 * BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
-* Ejercicio en clases > Login Student > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* &nbsp; &nbsp; Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ### 6.4 Ejemplos:
 ---
 
 
-Updated on 26-Mar-2025 at 10:00 by Domingo Mery
+Updated on 26-Mar-2025 at 10:02 by Domingo Mery
