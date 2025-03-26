@@ -4,47 +4,53 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 11-Mar-2025:
-* 0.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/fN4fOoWzdWs)
-* 0.1-Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
-* 0.1-Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
-* 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
-* 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
-* 0.1-Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
-* 0.1-Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
-* 0.1-Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
-* 1.1-Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
+* 0.1-** PRESENTACION DEL CURSO **
+* 0.1-&nbsp; &nbsp; &nbsp;  Video: Clase de presentacion al curso (version 2021) [[YouTube]](https://youtu.be/fN4fOoWzdWs)
+* 0.1-&nbsp; &nbsp; &nbsp;  Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
+* 0.1-&nbsp; &nbsp; &nbsp;  PPT: Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
+* 0.1-** Bibliografia del Curso**
+* 0.1-&nbsp; &nbsp; &nbsp;  Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
+* 0.1-&nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
+* 0.1-&nbsp; &nbsp; &nbsp;  Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
+* 0.1-&nbsp; &nbsp; &nbsp;  Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
+* 0.1-&nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
+* 0.1-&nbsp; &nbsp; &nbsp;  Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
 
 ### Clase 02 Ju. 13-Mar-2025:
-* 1.2-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/imt2H2nKitA)
-* 1.2-Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
-* 1.1-Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
-* 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
-* 1.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 1.1-** INTRODUCCION **
+* 1.1-&nbsp; &nbsp; &nbsp;  Video: Introduccion al curso (version 2021) [[YouTube]](https://youtu.be/imt2H2nKitA)
+* 1.1-&nbsp; &nbsp; &nbsp;  PPT: Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
+* 1.2-&nbsp; &nbsp; &nbsp;  PPT: Ejemplo practico (mandarinas vs naranjas) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
+* 1.1-&nbsp; &nbsp; &nbsp;  PPT: Ejemplo de Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
+* 1.3-&nbsp; &nbsp; &nbsp;  PPT: Formulacion metodologica de Reconocimiento de Patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
+* 1.1-&nbsp; &nbsp; &nbsp;  E00: Quiz de marcha blanca sin nota (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 03 Ma. 18-Mar-2025:
-* 1.3-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
-* 1.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* 1.2-Extraccion de caracteristicas para el problema J y Q [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_JQ.pptx)
-* 1.2-[VC] Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
-* 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
-* 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
-* 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
+* 1.1-** INTRODUCCION **
+* 1.3-&nbsp; &nbsp; &nbsp;  Video: Clase de metodologia y ejemplos (version 2021) [[YouTube]](https://youtu.be/UH9Kv0EgipU)
+* 1.5-&nbsp; &nbsp; &nbsp;  PPT: Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
+* 1.4-&nbsp; &nbsp; &nbsp;  PPT: Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
+* 1.2-&nbsp; &nbsp; &nbsp;  PPT: Ejemplo de extraccion de caracteristicas para separar las letras J y Q [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_JQ.pptx)
+* 1.2-&nbsp; &nbsp; &nbsp;  Python: Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
+* 1.3-&nbsp; &nbsp; &nbsp;  Material de Apoyo: Paper - Reconocimiento de patrones estadistico [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
+* 1.1-&nbsp; &nbsp; &nbsp;  E01: Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 04 Ju. 20-Mar-2025:
 * 2.1-**CARACTERISTICAS GEOMETRICAS**
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas geometricas basicas y momentos de Hu y Flusser [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 2.1-&nbsp; &nbsp; &nbsp;  Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* 2.1-&nbsp; &nbsp; &nbsp;  Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2021) [[]](https://youtu.be/SMCEHYR9Pik)
+* 2.1-&nbsp; &nbsp; &nbsp;  PPT: Caracteristicas geometricas basicas y momentos de Hu y Flusser [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
+* 2.1-&nbsp; &nbsp; &nbsp;  Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* 2.1-&nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.1-&nbsp; &nbsp; &nbsp;  Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
+* 2.1-&nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
+* 2.1-&nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
+* 2.1-&nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 05 Ma. 25-Mar-2025:
 * 2.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/tNMZQr4csWU)
 * 2.1-TESTING
-* 2.1-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
+* 2.1-&nbsp; &nbsp; &nbsp;  Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * 2.1-Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
 * 2.1-Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 * 2.1-[VC] Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
@@ -59,7 +65,7 @@
 * 2.2-[VC] Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
-* 2.2-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 2.2-&nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 07 Ma. 01-Apr-2025:
 * 2.2-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/24UJe4wY2zc)
@@ -126,7 +132,7 @@
 
 ### Clase 15 Ju. 08-May-2025:
 * 3.3-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
-* 3.3-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 3.3-&nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * 3.4-Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * 3.5-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * 3.4-Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
@@ -161,7 +167,7 @@
 
 ### Clase 19 Ju. 22-May-2025:
 * 4.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
-* 4.2-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Socrative]](http://www.socrative.com)
+* 4.2-&nbsp; &nbsp; &nbsp;  Quiz [[Socrative]](http://www.socrative.com)
 
 ### Clase 20 Ma. 27-May-2025:
 * 4.6-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
@@ -194,7 +200,7 @@
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
-* 5.5-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Socrative]](http://www.socrative.com)
+* 5.5-&nbsp; &nbsp; &nbsp;  Quiz [[Socrative]](http://www.socrative.com)
 
 ### Clase 24 Ma. 10-Jun-2025:
 * 4.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
@@ -226,8 +232,8 @@
 * 7.1-**Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
-* 6.3-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 6.3-&nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ---
 
 
-Updated on 26-Mar-2025 at 10:08 by Domingo Mery
+Updated on 26-Mar-2025 at 10:31 by Domingo Mery
