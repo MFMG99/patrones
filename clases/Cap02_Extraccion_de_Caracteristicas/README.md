@@ -2,17 +2,17 @@
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Caracteristicas geometricas:
 * **CARACTERISTICAS GEOMETRICAS** 
-* *Tabspace* Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
-* *Tabspace* PPT: Caracteristicas geometricas basicas y momentos de Hu y Flusser [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
-* *Tabspace* Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
-* *Tabspace* Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* *Tabspace* Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* *Tabspace* Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* *Tabspace* Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
-* *Tabspace* Ejercicio en clases: E02 > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* * > Video: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* * > PPT: Caracteristicas geometricas basicas y momentos de Hu y Flusser [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
+* * > Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* * > Pyhton: Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* * > Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
+* * > Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
+* * > Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
+* * > Ejercicio en clases: E02 > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/tNMZQr4csWU)
 * TESTING 
-* *Tabspace* Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
+* * > Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
 * Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 * [VC] Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
@@ -64,4 +64,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 09:58 by Domingo Mery
+Updated on 26-Mar-2025 at 10:00 by Domingo Mery
