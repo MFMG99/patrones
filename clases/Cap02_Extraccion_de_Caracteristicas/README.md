@@ -2,7 +2,7 @@
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Caracteristicas geometricas:
 * **CARACTERISTICAS GEOMETRICAS** 
-* --- **Video Clase de Características Geometricas Basicas y Momentos de Hu y Flusser (version 2025)** [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* --- Video-2025: Clase de Características Geometricas Basicas y Momentos de Hu y Flusser [[YouTube]](https://youtu.be/mB6OcQiYnY4)
 * --- PPT Caracteristicas geometricas basicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * --- Apuntes Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * --- Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
@@ -64,4 +64,4 @@
 ---
 
 
-Updated on 26-Mar-2025 at 09:48 by Domingo Mery
+Updated on 26-Mar-2025 at 09:49 by Domingo Mery
