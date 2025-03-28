@@ -43,26 +43,32 @@
 * > **Caracteristicas de Gabor** 
 * >> Video: Caracteristicas de Gabor (version 2025) [[YouTube]]()
 * >> PPT: Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
-* > Material de apoyo: Paper - Caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
+* >> Material de apoyo: Paper - Caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * >> Material de apoyo: Paper - Aplicación de las caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
 * >> Material de apoyo: Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * >> Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * >> Material de apoyo: Paper - Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * > Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
 * > Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* **CARACTERISTICAS DE INTENSIDAD (cont)** 
+* > E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
 * E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
-* Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
-* Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
-* [VC] Deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
-* SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
-* Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
-* [VC] Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
-* Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
+* >> Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
+* > **Histogram of Gradients** 
+* >> Video: Histogram of Gradients (version 2025) [[YouTube]]()
+* >> PPT: Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
+* >> Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
+* >> Material de apoyo: Implementacion de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+* >> Python: Ejemplo de deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
+* >> Video: HoG y SIFT (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
+* **CARACTERISTICAS DE INTENSIDAD (cont)** 
+* > **SIFT** 
+* >> Video: SIFT (version 2025) [[YouTube]]()
+* >> PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
+* >> Material de apoyo: Paper - SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
+* >> Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
+* >> Video: SIFT (parte 1 al final del video) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
+* >> Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
 * E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/MImox20v974)
@@ -77,4 +83,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 10:46 by Domingo Mery
+Updated on 28-Mar-2025 at 11:03 by Domingo Mery
