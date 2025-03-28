@@ -41,52 +41,55 @@
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Características geometricas basicas y momentos (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas geometricas basicas y momentos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre caracteristicas geometricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
-* 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  E02 Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* 2.1 &nbsp; &nbsp; &nbsp;  Video: Caracteristicas geometricas basicas y momentos (version 2021) [[YouTube]](https://youtu.be/SMCEHYR9Pik)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre caracteristicas geometricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  E02 Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Caracteristicas geometricas basicas y momentos (version 2021) [[YouTube]](https://youtu.be/SMCEHYR9Pik)
 
 ### Clase 05 Ma. 25-Mar-2025:
-* 2.1 **+ Descriptores de Fourier**
-* 2.1 &nbsp; &nbsp; &nbsp;  Video: Descriptores de Fourier (version 2025) [[YouTube]](https://youtu.be/MjsuVwqTeX8)
-* 2.1 &nbsp; &nbsp; &nbsp;  PPT: Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
-* 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Ejemplo de los Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
-* 2.1 &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
+* 2.1 **CARACTERISTICAS GEOMETRICAS (cont)**
+* 2.1 &nbsp; &nbsp; &nbsp;  **Descriptores de Fourier**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Descriptores de Fourier (version 2025) [[YouTube]](https://youtu.be/MjsuVwqTeX8)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Ejemplo de los Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
 * 2.2 **CARACTERISTICAS DE INTENSIDAD**
-* 2.2 **+ Local Binary Patterns (LBP)**
-* 2.2 &nbsp; &nbsp; &nbsp;  Video: Local Binary Patterns (version 2025) [[YouTube]](https://youtu.be/JWVYnlyjK6Y)
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns (parte 1) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp;  Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
-* 2.1 Video: Descriptores de Fourier y LBP (version 2021) [[YouTube]](https://youtu.be/tNMZQr4csWU)
+* 2.2 &nbsp; &nbsp; &nbsp;  **Local Binary Patterns (LBP)**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Local Binary Patterns (version 2025) [[YouTube]](https://youtu.be/JWVYnlyjK6Y)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns (parte 1) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp; Video: Descriptores de Fourier y LBP (version 2021) [[YouTube]](https://youtu.be/tNMZQr4csWU)
 
 ### Clase 06 Ju. 27-Mar-2025:
-* 2.2 **+ Local Binary Patterns en reconocimiento facial**
-* 2.2 &nbsp; &nbsp; &nbsp;  Video: Local Binary Patterns en reconocimiento facial (version 2025) [[YouTube]](https://youtu.be/YxCXQaGq5fQ)
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns (parte 2) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns invariante a la rotacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
-* 2.2 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper de lectura complementaria sobre LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
-* 2.2 &nbsp; &nbsp; &nbsp;  E03: Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* 2.2 &nbsp; &nbsp; &nbsp;  Video: LBP en reconocimiento facial (version 2021) [[YouTube]](https://youtu.be/Wp1F4d50b38)
+* 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
+* 2.2 &nbsp; &nbsp; &nbsp; **Local Binary Patterns en reconocimiento facial**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Local Binary Patterns en reconocimiento facial (version 2025) [[YouTube]](https://youtu.be/YxCXQaGq5fQ)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns (parte 2) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns invariante a la rotacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper de lectura complementaria sobre LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  E03: Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: LBP en reconocimiento facial (version 2021) [[YouTube]](https://youtu.be/Wp1F4d50b38)
 
 ### Clase 07 Ma. 01-Apr-2025:
-* 2.2 **+ Caracteristicas de textura de Haralick**
-* 2.2 &nbsp; &nbsp; &nbsp;  Video: Caracteristicas de textura de Haralick (version 2025) [[YouTube]]()
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp;  Materal de apoyo: Paper - Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
-* 2.2 **+ Caracteristicas de Gabor**
-* 2.2 &nbsp; &nbsp; &nbsp;  Video: Caracteristicas de Gabor (version 2025) [[YouTube]]()
-* 2.2 &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
+* 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
+* 2.2 &nbsp; &nbsp; &nbsp;  **Caracteristicas de textura de Haralick**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Caracteristicas de textura de Haralick (version 2025) [[YouTube]]()
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Materal de apoyo: Paper - Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
+* 2.2 &nbsp; &nbsp; &nbsp;  **Caracteristicas de Gabor**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Caracteristicas de Gabor (version 2025) [[YouTube]]()
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
-* 2.2 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Aplicación de las caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
-* 2.2 &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
-* 2.2 &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
-* 2.2 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* 2.2 Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
-* 2.2 Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Aplicación de las caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
+* 2.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
+* 2.2 &nbsp; &nbsp; &nbsp;  Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
 
 ### Clase 08 Ju. 03-Apr-2025:
 * 2.2 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/DWe4cN6q4II)
@@ -245,4 +248,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 10:40 by Domingo Mery
+Updated on 28-Mar-2025 at 10:46 by Domingo Mery
