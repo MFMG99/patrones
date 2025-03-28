@@ -2,7 +2,6 @@
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
 * **PRESENTACION DEL CURSO** 
-* > Video: Clase de presentacion al curso (version 2021) [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 * > Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * > PPT: Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * **Bibliografia** 
@@ -12,7 +11,8 @@
 * > Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * > Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
 * > Libro: Computer Vision for X-ray Testing, Second Edition (Mery, Pieringer, 2021) [[Book]](https://link.springer.com/book/10.1007/978-3-030-56769-9)
+* > Video: Clase de presentacion al curso (version 2021) [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 ---
 
 
-Updated on 26-Mar-2025 at 10:48 by Domingo Mery
+Updated on 28-Mar-2025 at 10:29 by Domingo Mery
