@@ -94,24 +94,24 @@
 ### Clase 08 Ju. 03-Apr-2025:
 * 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
 * 2.2 &nbsp; &nbsp; &nbsp;  E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
-* 2.2 E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
+* 2.2 &nbsp; &nbsp; &nbsp;  E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
+* 2.2 &nbsp; &nbsp; &nbsp;  Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2 &nbsp; &nbsp; &nbsp;  **Histogram of Gradients**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Histogram of Gradients (version 2025) [[YouTube]]()
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Implementacion de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: HoG y SIFT (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: HoG (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 
 ### Clase 09 Ma. 08-Apr-2025:
 * 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
 * 2.2 &nbsp; &nbsp; &nbsp;  **SIFT**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (version 2025) [[YouTube]]()
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - SIFT [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 1 al final del video) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 1) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 
 ### Clase 10 Ju. 10-Apr-2025:
@@ -254,4 +254,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 11:03 by Domingo Mery
+Updated on 28-Mar-2025 at 11:07 by Domingo Mery

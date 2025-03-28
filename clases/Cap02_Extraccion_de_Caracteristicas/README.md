@@ -52,22 +52,22 @@
 * > Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
 * > E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
-* E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
-* >> Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
+* > E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
+* > Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * > **Histogram of Gradients** 
 * >> Video: Histogram of Gradients (version 2025) [[YouTube]]()
 * >> PPT: Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * >> Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * >> Material de apoyo: Implementacion de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * >> Python: Ejemplo de deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
-* >> Video: HoG y SIFT (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
+* >> Video: HoG (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
 * > **SIFT** 
 * >> Video: SIFT (version 2025) [[YouTube]]()
 * >> PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
-* >> Material de apoyo: Paper - SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
+* >> Material de apoyo: Paper - SIFT [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * >> Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
-* >> Video: SIFT (parte 1 al final del video) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
+* >> Video: SIFT (parte 1) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * >> Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
 * E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
@@ -83,4 +83,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 11:03 by Domingo Mery
+Updated on 28-Mar-2025 at 11:07 by Domingo Mery
