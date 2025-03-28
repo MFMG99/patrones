@@ -11,20 +11,21 @@
 * > Material de apoyo: Paper - Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * > E02 Quiz (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * > Video: Caracteristicas geometricas basicas y momentos (version 2021) [[YouTube]](https://youtu.be/SMCEHYR9Pik)
-* **Descriptores de Fourier** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//)
+* **Descriptores de Fourier** 
 * > Video: Descriptores de Fourier (version 2025) [[YouTube]](https://youtu.be/MjsuVwqTeX8)
 * > PPT: Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
 * > Material de apoyo: Ejemplo de los Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * > Material de apoyo: Paper - Descriptores de Fourier [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Fourier_Descriptors.pdf)
 * > Python: Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/12l-UO9AxnE5sKbrre-knlMXv3A_y501M/view?usp=sharing)
-* > Video: Descriptores de Fourier y LBP (version 2021) [[YouTube]](https://youtu.be/tNMZQr4csWU)
+* Video: Descriptores de Fourier y LBP (version 2021) [[YouTube]](https://youtu.be/tNMZQr4csWU)
 ### 2.2 Caracteristicas cromaticas:
-* **Local Binary Patterns (LBP)** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//)
+* **CARACTERISTICAS DE INTENSIDAD** 
+* **Local Binary Patterns (LBP)** 
 * > Video: Local Binary Patterns (version 2025) [[YouTube]](https://youtu.be/JWVYnlyjK6Y)
 * > PPT: Local Binary Patterns (parte 1) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * > Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
 * **Local Binary Patterns en reconocimiento facial** 
-* > Video: Clase de Local Binary Patterns en reconocimiento facial (version 2025) [[YouTube]](https://youtu.be/YxCXQaGq5fQ)
+* > Video: Local Binary Patterns en reconocimiento facial (version 2025) [[YouTube]](https://youtu.be/YxCXQaGq5fQ)
 * > PPT: Local Binary Patterns (parte 2) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * > PPT: Local Binary Patterns invariante a la rotacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * > Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
@@ -43,8 +44,8 @@
 * > Material de apoyo: Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * > Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * > Material de apoyo: Paper - Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* > Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
-* > Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
+* Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
+* Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
 * E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
@@ -72,4 +73,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 10:29 by Domingo Mery
+Updated on 28-Mar-2025 at 10:34 by Domingo Mery
