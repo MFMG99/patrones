@@ -37,10 +37,10 @@
 
 ### Clase 04 Ju. 20-Mar-2025:
 * 2.1 **CARACTERISTICAS GEOMETRICAS**
-* 2.1 **+ Caracteristicas geometricas basicas y momentos**
-* 2.1 &nbsp; &nbsp; &nbsp;  Video: Características geometricas basicas y momentos (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
-* 2.1 &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas geometricas basicas y momentos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
-* 2.1 &nbsp; &nbsp; &nbsp;  Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* 2.1 &nbsp; &nbsp; &nbsp;  **Caracteristicas geometricas basicas y momentos**
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Características geometricas basicas y momentos (version 2025) [[YouTube]](https://youtu.be/mB6OcQiYnY4)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas geometricas basicas y momentos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
+* 2.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Apuntes: Caracteristicas geometricas basicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1 &nbsp; &nbsp; &nbsp;  Pyhton: Ejemplo sobre caracteristicas geometricas y momentos [[Colab]](https://drive.google.com/file/d/1Z-zQOxz3tAgpq815TqH1Yyr2WGNXzsKV/view?usp=sharing)
 * 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
 * 2.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
@@ -245,4 +245,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 10:37 by Domingo Mery
+Updated on 28-Mar-2025 at 10:40 by Domingo Mery
