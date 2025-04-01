@@ -37,11 +37,11 @@
 * >> Video: LBP en reconocimiento facial (version 2021) [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
 * > **Caracteristicas de textura de Haralick** 
-* >> Video: Caracteristicas de textura de Haralick (version 2025) [[YouTube]]()
+* >> Video: Caracteristicas de textura de Haralick (version 2025) [[YouTube]](https://youtu.be/-u9LZZq8d0Y)
 * >> PPT: Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * >> Materal de apoyo: Paper - Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
 * > **Caracteristicas de Gabor** 
-* >> Video: Caracteristicas de Gabor (version 2025) [[YouTube]]()
+* >> Video: Caracteristicas de Gabor (version 2025) [[YouTube]](https://youtu.be/QUtDzNGH1TA)
 * >> PPT: Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
 * >> Material de apoyo: Paper - Caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * >> Material de apoyo: Paper - Aplicación de las caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
@@ -83,4 +83,4 @@
 ---
 
 
-Updated on 28-Mar-2025 at 11:07 by Domingo Mery
+Updated on 01-Apr-2025 at 13:39 by Domingo Mery
