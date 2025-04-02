@@ -51,7 +51,7 @@
 * > Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
 * > Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
-* > E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* > E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1uEdZEmgAPfAgss8ctUVvE7DShwiEIuU_?usp=sharing)
 * > E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * > Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * > **Histogram of Gradients** 
@@ -83,4 +83,4 @@
 ---
 
 
-Updated on 01-Apr-2025 at 13:39 by Domingo Mery
+Updated on 02-Apr-2025 at 12:07 by Domingo Mery

@@ -93,7 +93,7 @@
 
 ### Clase 08 Ju. 03-Apr-2025:
 * 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
-* 2.2 &nbsp; &nbsp; &nbsp;  E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* 2.2 &nbsp; &nbsp; &nbsp;  E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1uEdZEmgAPfAgss8ctUVvE7DShwiEIuU_?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp;  E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2 &nbsp; &nbsp; &nbsp;  **Histogram of Gradients**
@@ -254,4 +254,4 @@
 ---
 
 
-Updated on 01-Apr-2025 at 13:39 by Domingo Mery
+Updated on 02-Apr-2025 at 12:07 by Domingo Mery
