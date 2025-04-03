@@ -97,7 +97,7 @@
 * 2.2 &nbsp; &nbsp; &nbsp;  E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
 * 2.2 &nbsp; &nbsp; &nbsp;  Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2 &nbsp; &nbsp; &nbsp;  **Histogram of Gradients**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Histogram of Gradients (version 2025) [[YouTube]]()
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Histogram of Gradients (version 2025) [[YouTube]](https://youtu.be/nYtfGa1t-QA)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Implementacion de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
@@ -254,4 +254,4 @@
 ---
 
 
-Updated on 02-Apr-2025 at 12:07 by Domingo Mery
+Updated on 03-Apr-2025 at 13:45 by Domingo Mery
