@@ -118,8 +118,8 @@
 * 2.2 &nbsp; &nbsp; &nbsp;  E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1063i4ozpaud7hmD4x0Zj16NAydcNAVxi?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp;  E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
 * 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
-* 2.2 &nbsp; &nbsp; &nbsp;  Caracteristicas de intensidad basadas en contraste [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (version 2025) [[YouTube]]()
+* 2.2 &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad basadas en contraste**
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Características basadas en contraste (version 2025) [[YouTube]]()
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Capítulo Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
@@ -257,4 +257,4 @@
 ---
 
 
-Updated on 07-Apr-2025 at 11:29 by Domingo Mery
+Updated on 07-Apr-2025 at 11:32 by Domingo Mery
