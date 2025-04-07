@@ -52,7 +52,7 @@
 * > Video: Texturas de Haralick y Gabor (version 2021) [[YouTube]](https://youtu.be/24UJe4wY2zc)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
 * > E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1uEdZEmgAPfAgss8ctUVvE7DShwiEIuU_?usp=sharing)
-* > E04: Solucion [[Colab]](https://colab.research.google.com/drive/ossso)
+* > E04: Solucion [[Colab]](https://colab.research.google.com/drive/1SWv3HW-fAf_lCcD5zAO9Txp1gnp3e4yD?usp=sharing)
 * > Video: Ejercicio de deteccion de caras (version 2021) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * > **Histogram of Gradients** 
 * >> Video: Histogram of Gradients (version 2025) [[YouTube]](https://youtu.be/nYtfGa1t-QA)
@@ -69,18 +69,21 @@
 * >> Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
 * >> Video: SIFT (parte 1) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * >> Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
-* E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
-* E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/MImox20v974)
-* Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
-* Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
-* Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
-* Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* [VC] Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
+* > E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1063i4ozpaud7hmD4x0Zj16NAydcNAVxi?usp=sharing)
+* > E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
+* **CARACTERISTICAS DE INTENSIDAD (cont)** 
+* > Caracteristicas de intensidad basadas en contraste [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas//)
+* >> Video: SIFT (version 2025) [[YouTube]]()
+* >> PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
+* >> Material de apoyo: Capítulo Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
+* >> PPT: Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
+* >> Material de apoyo: Paper - Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
+* >> Video: Características de contraste (version 2021) [[YouTube]](https://youtu.be/MImox20v974)
+* >> Python: Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 ### 2.3 Otras caracteristicas:
 ### 2.4 Normalizacion de caracteristicas:
 ### 2.5 Ejemplos:
 ---
 
 
-Updated on 03-Apr-2025 at 13:45 by Domingo Mery
+Updated on 07-Apr-2025 at 11:29 by Domingo Mery
