@@ -63,10 +63,12 @@
 * >> Video: HoG (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
 * > **SIFT** 
-* >> Video: SIFT (version 2025) [[YouTube]]()
+* >> Video: SIFT (version 2025) [[YouTube]](https://youtu.be/K3sKDjwv030)
 * >> PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * >> Material de apoyo: Paper - SIFT [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * >> Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
+* Explicacion de Tarea 02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Tarea02.pptx)
+* >> Video: Explicacion de Tarea 02 (version 2025) [[YouTube]](https://youtu.be/GBJfQ3FWYJ0)
 * >> Video: SIFT (parte 1) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * >> Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * > E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1063i4ozpaud7hmD4x0Zj16NAydcNAVxi?usp=sharing)
@@ -86,4 +88,4 @@
 ---
 
 
-Updated on 07-Apr-2025 at 11:32 by Domingo Mery
+Updated on 08-Apr-2025 at 13:43 by Domingo Mery

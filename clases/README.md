@@ -107,10 +107,12 @@
 ### Clase 09 Ma. 08-Apr-2025:
 * 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
 * 2.2 &nbsp; &nbsp; &nbsp;  **SIFT**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (version 2025) [[YouTube]]()
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (version 2025) [[YouTube]](https://youtu.be/K3sKDjwv030)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - SIFT [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
+* 2.2 Explicacion de Tarea 02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Tarea02.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Explicacion de Tarea 02 (version 2025) [[YouTube]](https://youtu.be/GBJfQ3FWYJ0)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 1) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 
@@ -131,7 +133,6 @@
 * 3.1 Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1 Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1 Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
-* 3.1 Explicacion de Tarea 02 [[Canvas]](https://cursos.canvas.uc.cl/courses/67528/assignments/383595)
 
 ### Clase 12 Ma. 22-Apr-2025:
 * 3.1 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
@@ -257,4 +258,4 @@
 ---
 
 
-Updated on 07-Apr-2025 at 11:32 by Domingo Mery
+Updated on 08-Apr-2025 at 13:43 by Domingo Mery
