@@ -75,11 +75,10 @@
 * > E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
 * > **Ejemplo simple: FR con LBP, SFS y KNN** 
-* >> Video: FR con LBP, SFS y KNN (version 2025) [[YouTube]]()
-* >> PPT: Ejemplo simple de reconocimiento facial [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ToyExample.pptx)
-* >> Python: Ejemplo de Reconocimiento Facial con LBP [[Colab]](https://colab.research.google.com/drive/1YYY6Gpyx1hPUKOcykr_4zGRhczTgO1rk?usp=sharing)
-* > **Caracteristicas de intensidad basadas en contraste** 
-* >> Video: Características basadas en contraste (version 2025) [[YouTube]]()
+* >> Video: FR con LBP, SFS y KNN (version 2025) [[YouTube]](https://youtu.be/Ff5Jaspg7js)
+* >> PPT: Ejemplo simple de reconocimiento facial con LBP, SFS y KNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ToyExample.pptx)
+* >> Python: Ejemplo de Reconocimiento Facial con LBP, SFS y KNN [[Colab]](https://colab.research.google.com/drive/1YYY6Gpyx1hPUKOcykr_4zGRhczTgO1rk?usp=sharing)
+* > **Caracteristicas de intensidad basadas en contraste (opcional)** 
 * >> PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * >> Material de apoyo: Capítulo Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * >> PPT: Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
@@ -92,4 +91,4 @@
 ---
 
 
-Updated on 10-Apr-2025 at 08:56 by Domingo Mery
+Updated on 10-Apr-2025 at 15:30 by Domingo Mery
