@@ -74,6 +74,10 @@
 * > E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1063i4ozpaud7hmD4x0Zj16NAydcNAVxi?usp=sharing)
 * > E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
 * **CARACTERISTICAS DE INTENSIDAD (cont)** 
+* > **Ejemplo simple: FR con LBP, SFS y KNN** 
+* >> Video: FR con LBP, SFS y KNN (version 2025) [[YouTube]]()
+* >> PPT: Ejemplo simple de reconocimiento facial [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ToyExample.pptx)
+* >> Python: Ejemplo de Reconocimiento Facial con LBP [[Colab]](https://colab.research.google.com/drive/1YYY6Gpyx1hPUKOcykr_4zGRhczTgO1rk?usp=sharing)
 * > **Caracteristicas de intensidad basadas en contraste** 
 * >> Video: Características basadas en contraste (version 2025) [[YouTube]]()
 * >> PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
@@ -88,4 +92,4 @@
 ---
 
 
-Updated on 08-Apr-2025 at 13:43 by Domingo Mery
+Updated on 10-Apr-2025 at 08:56 by Domingo Mery
