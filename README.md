@@ -111,14 +111,14 @@
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - SIFT [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1gndMnTdTOzwzINsDy6fmo20CUwZDUAsW/view?usp=sharing)
-* 2.2 Explicacion de Tarea 02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Tarea02.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Explicacion de Tarea 02 (version 2025) [[YouTube]](https://youtu.be/GBJfQ3FWYJ0)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 1) (version 2021) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SIFT (parte 2) (version 2021) [[YouTube]](https://youtu.be/BeqJf-W4ob8)
+* 2.2 &nbsp; &nbsp; &nbsp;  Explicacion de Tarea 02 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Tarea02.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Explicacion de Tarea 02 (version 2025) [[YouTube]](https://youtu.be/GBJfQ3FWYJ0)
 
 ### Clase 10 Ju. 10-Apr-2025:
 * 2.2 &nbsp; &nbsp; &nbsp;  E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1063i4ozpaud7hmD4x0Zj16NAydcNAVxi?usp=sharing)
-* 2.2 &nbsp; &nbsp; &nbsp;  E05: Solucion [[Colab]](https://colab.research.google.com/drive/osssso)
+* 2.2 &nbsp; &nbsp; &nbsp;  E05: Solucion [[Colab]](https://colab.research.google.com/drive/1KPeiPZsVmmCHnwz859ysJQs8nF6dD0L_?usp=sharing)
 * 2.2 **CARACTERISTICAS DE INTENSIDAD (cont)**
 * 2.2 &nbsp; &nbsp; &nbsp;  **Ejemplo simple: FR con LBP, SFS y KNN**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: FR con LBP, SFS y KNN (version 2025) [[YouTube]](https://youtu.be/Ff5Jaspg7js)
@@ -126,7 +126,7 @@
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Reconocimiento Facial con LBP, SFS y KNN [[Colab]](https://colab.research.google.com/drive/1YYY6Gpyx1hPUKOcykr_4zGRhczTgO1rk?usp=sharing)
 
 ### Clase 11 Ma. 15-Apr-2025:
-* 2.2 &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad basadas en contraste (opcional)**
+* 2.2 &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad basadas en contraste**
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Capítulo Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
@@ -262,4 +262,4 @@
 ---
 
 
-Updated on 10-Apr-2025 at 16:13 by Domingo Mery
+Updated on 15-Apr-2025 at 09:30 by Domingo Mery
