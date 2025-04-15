@@ -1,16 +1,16 @@
 
 # Capitulo 03: Seleccion de Caracteristicas
 ### 3.1 Introduccion:
-* **Seleccion de Caracteristicas** 
+* **SELECCIÓN DE CARACTERISTICAS** 
 * > Video: Introduccion a la Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/FkrrnXNOEew)
 * > PPT: Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * > Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * > Material de apoyo: Paper - Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
-* **Seleccion de Caracteristicas (cont)** 
+* **SELECCIÓN DE CARACTERISTICAS (cont)** 
 * > Video: Métodos de Selección de Caracteristicas (version 2025) [[YouTube]]()
 * > Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * > Video de esta clase (version 2021) [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
-* **Seleccion de Caracteristicas (cont)** 
+* **SELECCIÓN DE CARACTERISTICAS (cont)** 
 * > Video de esta clase (version 2021) [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -46,4 +46,4 @@
 ---
 
 
-Updated on 15-Apr-2025 at 15:24 by Domingo Mery
+Updated on 15-Apr-2025 at 15:26 by Domingo Mery
