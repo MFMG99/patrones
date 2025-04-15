@@ -134,22 +134,26 @@
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Características de contraste (version 2021) [[YouTube]](https://youtu.be/MImox20v974)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 * 3.1 **Seleccion de Caracteristicas**
-* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Introduccion a la Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/FkrrnXNOEew)
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Introduccion a la Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/FkrrnXNOEew)
 * 3.1 &nbsp; &nbsp; &nbsp;  PPT: Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 
 ### Clase 12 Ma. 22-Apr-2025:
-* 3.1 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
-* 3.4 Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
-* 3.1 Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
-* 3.5 SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
-* 3.5 Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw)
+* 3.1 **Seleccion de Caracteristicas (cont)**
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Métodos de Selección de Caracteristicas (version 2025) [[YouTube]]()
+* 3.4 &nbsp; &nbsp; &nbsp;  Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp;  Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
+* 3.5 &nbsp; &nbsp; &nbsp;  SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
+* 3.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw)
+* 3.1 &nbsp; &nbsp; &nbsp;  Video de esta clase (version 2021) [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 
 ### Clase 13 Ju. 24-Apr-2025:
-* 3.1 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
-* 3.4 E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
-* 3.4 E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
+* 3.1 **Seleccion de Caracteristicas (cont)**
+* 3.4 &nbsp; &nbsp; &nbsp;  E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* 3.4 &nbsp; &nbsp; &nbsp;  E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
+* 3.4 &nbsp; &nbsp; &nbsp;  Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]]()
+* 3.1 &nbsp; &nbsp; &nbsp;  Video de esta clase (version 2021) [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 
 ### Clase 14 Ma. 06-May-2025:
 * 3.3 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
@@ -263,4 +267,4 @@
 ---
 
 
-Updated on 15-Apr-2025 at 15:16 by Domingo Mery
+Updated on 15-Apr-2025 at 15:24 by Domingo Mery
