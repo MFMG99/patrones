@@ -79,9 +79,9 @@
 * >> PPT: Ejemplo simple de reconocimiento facial con LBP, SFS y KNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ToyExample.pptx)
 * >> Python: Ejemplo de Reconocimiento Facial con LBP, SFS y KNN [[Colab]](https://colab.research.google.com/drive/1YYY6Gpyx1hPUKOcykr_4zGRhczTgO1rk?usp=sharing)
 * > **Caracteristicas de intensidad basadas en contraste** 
-* >> PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
+* >> Video: Caracteristicas de Contraste (version 2025) [[YouTube]](https://youtu.be/4ysTdG3mAu8)
+* >> PPT: Caracteristicas de Contraste (basicas y CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Contrast.pptx)
 * >> Material de apoyo: Capítulo Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
-* >> PPT: Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * >> Material de apoyo: Paper - Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * >> Video: Características de contraste (version 2021) [[YouTube]](https://youtu.be/MImox20v974)
 * >> Python: Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
@@ -91,4 +91,4 @@
 ---
 
 
-Updated on 15-Apr-2025 at 09:30 by Domingo Mery
+Updated on 15-Apr-2025 at 15:16 by Domingo Mery

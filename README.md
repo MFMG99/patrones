@@ -127,15 +127,16 @@
 
 ### Clase 11 Ma. 15-Apr-2025:
 * 2.2 &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad basadas en contraste**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de intensidad básicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Caracteristicas de Contraste (version 2025) [[YouTube]](https://youtu.be/4ysTdG3mAu8)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Caracteristicas de Contraste (basicas y CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Contrast.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Capítulo Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Características de contraste (version 2021) [[YouTube]](https://youtu.be/MImox20v974)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 * 3.1 **Seleccion de Caracteristicas**
-* 3.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
+* 3.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Introduccion a la Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/FkrrnXNOEew)
 * 3.1 &nbsp; &nbsp; &nbsp;  PPT: Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
+* 3.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 
 ### Clase 12 Ma. 22-Apr-2025:
@@ -262,4 +263,4 @@
 ---
 
 
-Updated on 15-Apr-2025 at 09:30 by Domingo Mery
+Updated on 15-Apr-2025 at 15:16 by Domingo Mery

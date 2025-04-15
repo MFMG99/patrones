@@ -2,8 +2,9 @@
 # Capitulo 03: Seleccion de Caracteristicas
 ### 3.1 Introduccion:
 * **Seleccion de Caracteristicas** 
-* > Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
+* >> Video: Introduccion a la Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/FkrrnXNOEew)
 * > PPT: Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
+* > Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * > Material de apoyo: Paper - Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
@@ -41,4 +42,4 @@
 ---
 
 
-Updated on 15-Apr-2025 at 09:30 by Domingo Mery
+Updated on 15-Apr-2025 at 15:16 by Domingo Mery
