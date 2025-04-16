@@ -145,7 +145,7 @@
 * 3.4 &nbsp; &nbsp; &nbsp;  Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * 3.5 &nbsp; &nbsp; &nbsp;  SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
-* 3.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw)
+* 3.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video de esta clase (version 2021) [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 
 ### Clase 13 Ju. 24-Apr-2025:
@@ -267,4 +267,4 @@
 ---
 
 
-Updated on 15-Apr-2025 at 15:26 by Domingo Mery
+Updated on 16-Apr-2025 at 10:48 by Domingo Mery
