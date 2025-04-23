@@ -26,7 +26,7 @@
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * > Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
-* > E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* > E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1RHUBvgQ7C3uchBQidBAAZYnw6NNHI8r_?usp=sharing)
 * > E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
 * > Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]]()
 * Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
@@ -46,4 +46,4 @@
 ---
 
 
-Updated on 16-Apr-2025 at 10:48 by Domingo Mery
+Updated on 23-Apr-2025 at 09:28 by Domingo Mery
