@@ -141,7 +141,7 @@
 
 ### Clase 12 Ma. 22-Apr-2025:
 * 3.1 **SELECCIÓN DE CARACTERISTICAS (cont)**
-* 3.1 &nbsp; &nbsp; &nbsp;  Video: Métodos de Selección de Caracteristicas (version 2025) [[YouTube]]()
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Métodos de Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/voVM8I39n6g)
 * 3.4 &nbsp; &nbsp; &nbsp;  Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * 3.5 &nbsp; &nbsp; &nbsp;  SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
@@ -267,4 +267,4 @@
 ---
 
 
-Updated on 23-Apr-2025 at 09:28 by Domingo Mery
+Updated on 23-Apr-2025 at 11:04 by Domingo Mery

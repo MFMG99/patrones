@@ -7,7 +7,7 @@
 * > Material de apoyo: Apuntes sobre la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * > Material de apoyo: Paper - Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * **SELECCIÓN DE CARACTERISTICAS (cont)** 
-* > Video: Métodos de Selección de Caracteristicas (version 2025) [[YouTube]]()
+* > Video: Métodos de Selección de Caracteristicas (version 2025) [[YouTube]](https://youtu.be/voVM8I39n6g)
 * > Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * > Video de esta clase (version 2021) [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * **SELECCIÓN DE CARACTERISTICAS (cont)** 
@@ -46,4 +46,4 @@
 ---
 
 
-Updated on 23-Apr-2025 at 09:28 by Domingo Mery
+Updated on 23-Apr-2025 at 11:04 by Domingo Mery
