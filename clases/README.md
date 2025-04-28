@@ -150,25 +150,30 @@
 
 ### Clase 13 Ju. 24-Apr-2025:
 * 3.1 **SELECCIÓN DE CARACTERISTICAS (cont)**
+* 3.4 &nbsp; &nbsp; &nbsp;  Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]](https://youtu.be/46xYYibyuDU)
 * 3.4 &nbsp; &nbsp; &nbsp;  E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1RHUBvgQ7C3uchBQidBAAZYnw6NNHI8r_?usp=sharing)
 * 3.4 &nbsp; &nbsp; &nbsp;  E06: Ejercicico 06 explicación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio_E06.pptx)
-* 3.4 &nbsp; &nbsp; &nbsp;  E06: Solucion [[Colab]](https://youtu.be/46xYYibyuDU)
-* 3.4 &nbsp; &nbsp; &nbsp;  Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]]()
+* 3.4 &nbsp; &nbsp; &nbsp;  E06: Solucion [[Colab]](https://colab.research.google.com/drive/1ivv2C1itKjlpmsXgM_-NXRNEV9gjSM1o?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  Video de esta clase (version 2021) [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 
 ### Clase 14 Ma. 06-May-2025:
-* 3.3 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
-* 3.3 Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
-* 3.3 Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* 3.7 Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
+* 3.1 **SELECCIÓN DE CARACTERISTICAS (cont)**
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Discriminante FIsher (version 2025) [[YouTube]]()
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Branch and Bound (version 2025) [[YouTube]]()
+* 3.3 &nbsp; &nbsp; &nbsp;  Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp;  Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
+* 3.7 &nbsp; &nbsp; &nbsp;  Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
 
 ### Clase 15 Ju. 08-May-2025:
-* 3.3 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
-* 3.3 &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* 3.4 Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
-* 3.5 Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
-* 3.4 Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
-* 3.4 ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+* 3.1 **TRANSFORMACIÓN DE CARACTERISTICAS**
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: PCA - ICA (version 2025) [[YouTube]]()
+* 3.4 &nbsp; &nbsp; &nbsp;  Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* 3.5 &nbsp; &nbsp; &nbsp;  Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
+* 3.4 &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+* 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
+* 3.4 &nbsp; &nbsp; &nbsp;  Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
+* 3.3 &nbsp; &nbsp; &nbsp;  E07: Quiz sobre Selección y Transformación(canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 
 ### Clase 16 Ma. 13-May-2025:
 * 3.3 **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
@@ -268,4 +273,4 @@
 ---
 
 
-Updated on 28-Apr-2025 at 09:53 by Domingo Mery
+Updated on 28-Apr-2025 at 10:05 by Domingo Mery

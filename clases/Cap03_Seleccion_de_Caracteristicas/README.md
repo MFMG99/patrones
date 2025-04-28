@@ -12,39 +12,44 @@
 * > Video de esta clase (version 2021) [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * **SELECCIÓN DE CARACTERISTICAS (cont)** 
 * > Video de esta clase (version 2021) [[YouTube]](https://youtu.be/sZhO6YVYAGE)
+* **SELECCIÓN DE CARACTERISTICAS (cont)** 
+* > Video: Discriminante FIsher (version 2025) [[YouTube]]()
+* > Video: Branch and Bound (version 2025) [[YouTube]]()
+* **TRANSFORMACIÓN DE CARACTERISTICAS** 
+* > Video: PCA - ICA (version 2025) [[YouTube]]()
 * Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
 * Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 ### 3.2 Analisis de componentes principales:
 ### 3.3 Discriminante Fisher:
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
-* Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
-* Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
-* > Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* > Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
+* > Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
+* > **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
+* > **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
+* > E07: Quiz sobre Selección y Transformación(canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * **Video de esta clase (version 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * > Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
+* > Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]](https://youtu.be/46xYYibyuDU)
 * > E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1RHUBvgQ7C3uchBQidBAAZYnw6NNHI8r_?usp=sharing)
 * > E06: Ejercicico 06 explicación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio_E06.pptx)
-* > E06: Solucion [[Colab]](https://youtu.be/46xYYibyuDU)
-* > Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]]()
-* Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
-* Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
-* ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+* > E06: Solucion [[Colab]](https://colab.research.google.com/drive/1ivv2C1itKjlpmsXgM_-NXRNEV9gjSM1o?usp=sharing)
+* > Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* > ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
+* > Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
 ### 3.5 Busqueda secuencial hacia adeleante:
 * > SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * > Python: Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
-* Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
+* > Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1v1v6qxWkOTmd20cqNOgc5v8jpNWlhgXQ)
 * Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 * E08: Ejercicio 08 sobre Sel/Trans de Caracteristicas (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
 ### 3.6 Busqueda secuencial hacia atras:
 ### 3.7 Busqueda Brunch-Bound:
-* Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
+* > Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 ### 3.8 Ejemplos:
 ---
 
 
-Updated on 28-Apr-2025 at 09:53 by Domingo Mery
+Updated on 28-Apr-2025 at 10:05 by Domingo Mery
