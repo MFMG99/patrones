@@ -151,7 +151,8 @@
 ### Clase 13 Ju. 24-Apr-2025:
 * 3.1 **SELECCIÓN DE CARACTERISTICAS (cont)**
 * 3.4 &nbsp; &nbsp; &nbsp;  E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1RHUBvgQ7C3uchBQidBAAZYnw6NNHI8r_?usp=sharing)
-* 3.4 &nbsp; &nbsp; &nbsp;  E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
+* 3.4 &nbsp; &nbsp; &nbsp;  E06: Ejercicico 06 explicación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio_E06.pptx)
+* 3.4 &nbsp; &nbsp; &nbsp;  E06: Solucion [[Colab]](https://youtu.be/46xYYibyuDU)
 * 3.4 &nbsp; &nbsp; &nbsp;  Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]]()
 * 3.1 &nbsp; &nbsp; &nbsp;  Video de esta clase (version 2021) [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 
@@ -267,4 +268,4 @@
 ---
 
 
-Updated on 23-Apr-2025 at 11:04 by Domingo Mery
+Updated on 28-Apr-2025 at 09:53 by Domingo Mery

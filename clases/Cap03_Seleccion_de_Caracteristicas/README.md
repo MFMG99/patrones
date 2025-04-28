@@ -27,7 +27,8 @@
 ### 3.4 Busqueda exhaustiva:
 * > Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * > E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1RHUBvgQ7C3uchBQidBAAZYnw6NNHI8r_?usp=sharing)
-* > E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
+* > E06: Ejercicico 06 explicación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio_E06.pptx)
+* > E06: Solucion [[Colab]](https://youtu.be/46xYYibyuDU)
 * > Video: Explicacion Ejercicio E06 (version 2025) [[YouTube]]()
 * Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
@@ -46,4 +47,4 @@
 ---
 
 
-Updated on 23-Apr-2025 at 11:04 by Domingo Mery
+Updated on 28-Apr-2025 at 09:53 by Domingo Mery
