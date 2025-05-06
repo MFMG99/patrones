@@ -158,8 +158,8 @@
 
 ### Clase 14 Ma. 06-May-2025:
 * 3.1 **SELECCIÓN DE CARACTERISTICAS (cont)**
-* 3.1 &nbsp; &nbsp; &nbsp;  Video: Discriminante FIsher (versión 2025) [[YouTube]]()
-* 3.1 &nbsp; &nbsp; &nbsp;  Video: Branch and Bound (versión 2025) [[YouTube]]()
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Discriminante FIsher (versión 2025) [[YouTube]](https://youtu.be/RwsUa-UJKHc)
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Branch and Bound (versión 2025) [[YouTube]](https://youtu.be/w0nrCSQk6kc)
 * 3.3 &nbsp; &nbsp; &nbsp;  Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * 3.7 &nbsp; &nbsp; &nbsp;  Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
@@ -273,4 +273,4 @@
 ---
 
 
-Updated on 28-Apr-2025 at 10:16 by Domingo Mery
+Updated on 06-May-2025 at 14:31 by Domingo Mery

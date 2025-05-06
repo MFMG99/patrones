@@ -13,8 +13,8 @@
 * **SELECCIÓN DE CARACTERISTICAS (cont)** 
 * > Video de esta clase (versión 2021) [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * **SELECCIÓN DE CARACTERISTICAS (cont)** 
-* > Video: Discriminante FIsher (versión 2025) [[YouTube]]()
-* > Video: Branch and Bound (versión 2025) [[YouTube]]()
+* > Video: Discriminante FIsher (versión 2025) [[YouTube]](https://youtu.be/RwsUa-UJKHc)
+* > Video: Branch and Bound (versión 2025) [[YouTube]](https://youtu.be/w0nrCSQk6kc)
 * **TRANSFORMACIÓN DE CARACTERISTICAS** 
 * > Video: PCA - ICA (versión 2025) [[YouTube]]()
 * Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
@@ -52,4 +52,4 @@
 ---
 
 
-Updated on 28-Apr-2025 at 10:16 by Domingo Mery
+Updated on 06-May-2025 at 14:31 by Domingo Mery
