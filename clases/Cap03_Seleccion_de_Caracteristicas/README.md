@@ -16,7 +16,7 @@
 * > Video: Discriminante FIsher (versión 2025) [[YouTube]](https://youtu.be/RwsUa-UJKHc)
 * > Video: Branch and Bound (versión 2025) [[YouTube]](https://youtu.be/w0nrCSQk6kc)
 * **TRANSFORMACIÓN DE CARACTERISTICAS** 
-* > Video: PCA - ICA (versión 2025) [[YouTube]]()
+* > Video: PCA - ICA (versión 2025) [[YouTube]](https://youtu.be/QNelEdlVCqI)
 * **TRANSFORMACIÓN DE CARACTERISTICAS** 
 * > Video: Selección general (versión 2025) [[YouTube]]()
 * > Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
@@ -28,8 +28,8 @@
 * > Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * > Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
-* > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * > E07: Quiz sobre Selección y Transformación(canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * > Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
@@ -38,15 +38,16 @@
 * > E06: Ejercicio 06 explicación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio_E06.pptx)
 * > E06: Solución [[Colab]](https://colab.research.google.com/drive/1ivv2C1itKjlpmsXgM_-NXRNEV9gjSM1o?usp=sharing)
 * > Selección versus Transformación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* > Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * > ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 * > Python: Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 ### 3.5 Busqueda secuencial hacia adeleante:
 * > SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * > Python: Ejemplo de Selección de Caracteristicas [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
-* > Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
+* > Principal Components Analysis PCA [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCAidea.m)
 * > Python: Bateria de Ejemplos de Selección de Características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * > Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* > E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
 ### 3.6 Busqueda secuencial hacia atras:
 ### 3.7 Busqueda Brunch-Bound:
 * > Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
@@ -54,4 +55,4 @@
 ---
 
 
-Updated on 07-May-2025 at 14:44 by Domingo Mery
+Updated on 09-May-2025 at 11:55 by Domingo Mery

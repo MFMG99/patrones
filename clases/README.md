@@ -167,13 +167,14 @@
 
 ### Clase 15 Ju. 08-May-2025:
 * 3.1 **TRANSFORMACIÓN DE CARACTERISTICAS**
-* 3.1 &nbsp; &nbsp; &nbsp;  Video: PCA - ICA (versión 2025) [[YouTube]]()
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: PCA - ICA (versión 2025) [[YouTube]](https://youtu.be/QNelEdlVCqI)
 * 3.4 &nbsp; &nbsp; &nbsp;  Selección versus Transformación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
-* 3.5 &nbsp; &nbsp; &nbsp;  Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
+* 3.5 &nbsp; &nbsp; &nbsp;  Principal Components Analysis PCA [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCAidea.m)
+* 3.4 &nbsp; &nbsp; &nbsp;  Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.4 &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
-* 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * 3.4 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp;  E07: Quiz sobre Selección y Transformación(canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 
 ### Clase 16 Ma. 13-May-2025:
 * 3.1 **TRANSFORMACIÓN DE CARACTERISTICAS**
@@ -185,7 +186,7 @@
 * 3.1 &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5 &nbsp; &nbsp; &nbsp;  Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
-* 3.5 E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
 
 ### Clase 17 Ju. 15-May-2025:
 * 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -275,4 +276,4 @@
 ---
 
 
-Updated on 07-May-2025 at 14:44 by Domingo Mery
+Updated on 09-May-2025 at 11:55 by Domingo Mery
