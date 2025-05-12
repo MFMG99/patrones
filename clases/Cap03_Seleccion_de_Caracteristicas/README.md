@@ -47,7 +47,7 @@
 * > Principal Components Analysis PCA [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCAidea.m)
 * > Python: Bateria de Ejemplos de Selección de Características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * > Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* > E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* > E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/1v0w73Z770GF-JivEc6_Uwag-WzIHKR6D?usp=sharing)
 ### 3.6 Busqueda secuencial hacia atras:
 ### 3.7 Busqueda Brunch-Bound:
 * > Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 09-May-2025 at 11:55 by Domingo Mery
+Updated on 12-May-2025 at 10:00 by Domingo Mery

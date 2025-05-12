@@ -186,7 +186,7 @@
 * 3.1 &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5 &nbsp; &nbsp; &nbsp;  Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
-* 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/ossso)
+* 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/1v0w73Z770GF-JivEc6_Uwag-WzIHKR6D?usp=sharing)
 
 ### Clase 17 Ju. 15-May-2025:
 * 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -276,4 +276,4 @@
 ---
 
 
-Updated on 09-May-2025 at 11:55 by Domingo Mery
+Updated on 12-May-2025 at 10:00 by Domingo Mery
