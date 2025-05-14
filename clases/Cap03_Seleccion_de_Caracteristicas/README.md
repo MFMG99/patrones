@@ -18,7 +18,7 @@
 * **TRANSFORMACIÓN DE CARACTERISTICAS** 
 * > Video: PCA - ICA (versión 2025) [[YouTube]](https://youtu.be/QNelEdlVCqI)
 * **TRANSFORMACIÓN DE CARACTERISTICAS** 
-* > Video: Selección general (versión 2025) [[YouTube]]()
+* > Video: Selección general (versión 2025) [[YouTube]](https://youtu.be/t6IncbBtKhc)
 * > Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * > How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
 * > Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
@@ -48,6 +48,7 @@
 * > Python: Bateria de Ejemplos de Selección de Características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * > Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 * > E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/1v0w73Z770GF-JivEc6_Uwag-WzIHKR6D?usp=sharing)
+* > E08: Ejercicio 08 solución (Colab) [[Colab]](https://colab.research.google.com/drive/1xntrtFWd6yQEipyStnIxOJy1epgUSqyz?usp=sharing)
 ### 3.6 Busqueda secuencial hacia atras:
 ### 3.7 Busqueda Brunch-Bound:
 * > Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
@@ -55,4 +56,4 @@
 ---
 
 
-Updated on 12-May-2025 at 10:00 by Domingo Mery
+Updated on 14-May-2025 at 09:54 by Domingo Mery

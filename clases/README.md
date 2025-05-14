@@ -178,7 +178,7 @@
 
 ### Clase 16 Ma. 13-May-2025:
 * 3.1 **TRANSFORMACIÓN DE CARACTERISTICAS**
-* 3.1 &nbsp; &nbsp; &nbsp;  Video: Selección general (versión 2025) [[YouTube]]()
+* 3.1 &nbsp; &nbsp; &nbsp;  Video: Selección general (versión 2025) [[YouTube]](https://youtu.be/t6IncbBtKhc)
 * 3.1 &nbsp; &nbsp; &nbsp;  Esquema general con selección de características [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * 3.5 &nbsp; &nbsp; &nbsp;  Python: Bateria de Ejemplos de Selección de Características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * 3.1 &nbsp; &nbsp; &nbsp;  How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -187,6 +187,7 @@
 * 3.5 &nbsp; &nbsp; &nbsp;  Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 * 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 sobre Sel/Trans de Características (Colab) [[Colab]](https://colab.research.google.com/drive/1v0w73Z770GF-JivEc6_Uwag-WzIHKR6D?usp=sharing)
+* 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 solución (Colab) [[Colab]](https://colab.research.google.com/drive/1xntrtFWd6yQEipyStnIxOJy1epgUSqyz?usp=sharing)
 
 ### Clase 17 Ju. 15-May-2025:
 * 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -276,4 +277,4 @@
 ---
 
 
-Updated on 12-May-2025 at 10:00 by Domingo Mery
+Updated on 14-May-2025 at 09:54 by Domingo Mery
