@@ -190,13 +190,17 @@
 * 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 solución (Colab) [[Colab]](https://colab.research.google.com/drive/1xntrtFWd6yQEipyStnIxOJy1epgUSqyz?usp=sharing)
 
 ### Clase 17 Ju. 15-May-2025:
-* 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
-* 4.1 Introducción [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
-* 4.2 Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
-* 4.2 Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* 4.4 Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
-* 4.2 Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
-* 4.2 Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
+* 4.1 **CLASIFICADORES BÁSICOS**
+* 4.1 &nbsp; &nbsp; &nbsp;  Video: Introducción a los clasificadores (versión 2025) [[YouTube]](https://youtu.be/z8NMm4FtDCs)
+* 4.1 &nbsp; &nbsp; &nbsp;  Introducción a los clasificadores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp;  Video: Clasificadores KNN y DMIN (versión 2025) [[YouTube]](https://youtu.be/m0sgPCB3zu4)
+* 4.2 &nbsp; &nbsp; &nbsp;  Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp;  Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp;  Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
+* 4.4 &nbsp; &nbsp; &nbsp;  Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
+* 4.2 &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
+* 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 
 ### Clase 18 Ma. 20-May-2025:
 * 4.3 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -277,4 +281,4 @@
 ---
 
 
-Updated on 14-May-2025 at 09:54 by Domingo Mery
+Updated on 15-May-2025 at 16:13 by Domingo Mery
