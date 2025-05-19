@@ -190,22 +190,27 @@
 * 3.5 &nbsp; &nbsp; &nbsp;  E08: Ejercicio 08 solución (Colab) [[Colab]](https://colab.research.google.com/drive/1xntrtFWd6yQEipyStnIxOJy1epgUSqyz?usp=sharing)
 
 ### Clase 17 Ju. 15-May-2025:
-* 4.1 **CLASIFICADORES BÁSICOS**
+* 4.1 **CLASIFICADORES**
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Introducción a los clasificadores (versión 2025) [[YouTube]](https://youtu.be/z8NMm4FtDCs)
 * 4.1 &nbsp; &nbsp; &nbsp;  Introducción a los clasificadores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp;  Video: Clasificadores KNN y DMIN (versión 2025) [[YouTube]](https://youtu.be/m0sgPCB3zu4)
-* 4.2 &nbsp; &nbsp; &nbsp;  Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp;  Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* 4.2 &nbsp; &nbsp; &nbsp;  Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
-* 4.4 &nbsp; &nbsp; &nbsp;  Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp;  **Clasificadores Básicos**
+* 4.1 &nbsp; &nbsp; &nbsp;  **Clasificadores KNN y DMIN**
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clasificadores KNN y DMIN (versión 2025) [[YouTube]](https://youtu.be/m0sgPCB3zu4)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp;  **Clasificador de Bayes**
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 
 ### Clase 18 Ma. 20-May-2025:
-* 4.1 **CLASIFICADORES BÁSICOS (cont)**
-* 4.1 &nbsp; &nbsp; &nbsp;  Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
-* 4.3 &nbsp; &nbsp; &nbsp;  Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; **Casificadores Básicos (cont)**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Clasificadores LDA, QDA, Mahalanobis**
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Clasificadores basados en árboles**
 * 4.1 &nbsp; &nbsp; &nbsp;  Video: Árboles de decisión (versión 2025) [[YouTube]]()
 * 4.3 &nbsp; &nbsp; &nbsp;  Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
@@ -286,4 +291,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:04 by Domingo Mery
+Updated on 19-May-2025 at 16:15 by Domingo Mery

@@ -1,12 +1,17 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Introduccion:
-* **CLASIFICADORES BÁSICOS** 
+* **CLASIFICADORES** 
 * > Video: Introducción a los clasificadores (versión 2025) [[YouTube]](https://youtu.be/z8NMm4FtDCs)
 * > Introducción a los clasificadores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
+* > **Clasificadores Básicos** 
+* > **Clasificadores KNN y DMIN** 
+* > **Clasificador de Bayes** 
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
-* **CLASIFICADORES BÁSICOS (cont)** 
-* > Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* >**Casificadores Básicos (cont)** 
+* >> **Clasificadores LDA, QDA, Mahalanobis** 
+* >> Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* >> **Clasificadores basados en árboles** 
 * > Video: Árboles de decisión (versión 2025) [[YouTube]]()
 * > Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
@@ -17,19 +22,19 @@
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
 ### 4.2 Vecino mas cercano:
-* > Video: Clasificadores KNN y DMIN (versión 2025) [[YouTube]](https://youtu.be/m0sgPCB3zu4)
-* > Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
-* > Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* > Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
+* >> Video: Clasificadores KNN y DMIN (versión 2025) [[YouTube]](https://youtu.be/m0sgPCB3zu4)
+* >> Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
+* >> Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
+* >> Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
 * > Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * > Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
 * > Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * > E09: Quiz sobre Clasificadores básicos (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ### 4.3 LDA, QDA, Mahalanobis:
-* > Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* >> Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * > Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 ### 4.4 Clasificador de Bayes:
-* > Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
+* >> Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 ### 4.5 Support vector machines:
 * Introducción a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
@@ -60,4 +65,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:04 by Domingo Mery
+Updated on 19-May-2025 at 16:15 by Domingo Mery
