@@ -52,7 +52,7 @@
 * >> Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr)
 * >> Python: Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 * >> Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
-* **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
+* >> **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * **CLASIFICADORES AVANZADOS (cont)** 
 * > **SVM** 
 * >> Video: SVM (versión 2025) [[YouTube]]()
@@ -70,4 +70,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:27 by Domingo Mery
+Updated on 19-May-2025 at 16:41 by Domingo Mery

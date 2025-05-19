@@ -233,7 +233,7 @@
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
-* 4.6 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 
 ### Clase 21 Ju. 29-May-2025:
 * 4.6 **CLASIFICADORES AVANZADOS (cont)**
@@ -296,4 +296,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:27 by Domingo Mery
+Updated on 19-May-2025 at 16:41 by Domingo Mery
