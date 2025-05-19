@@ -5,9 +5,15 @@
 * > Video: Introducción a los clasificadores (versión 2025) [[YouTube]](https://youtu.be/z8NMm4FtDCs)
 * > Introducción a los clasificadores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
-* Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
-* **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
+* **CLASIFICADORES BÁSICOS (cont)** 
+* > Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* > Video: Árboles de decisión (versión 2025) [[YouTube]]()
+* > Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
+* > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
+* > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
+* **CLASIFICADORES BÁSICOS (cont)** 
+* > Video: Ejercicio E09 (versión 2025) [[YouTube]]()
+* > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
 ### 4.2 Vecino mas cercano:
@@ -17,12 +23,11 @@
 * > Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
 * > Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * > Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
-* Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
-* > Quiz [[Socrative]](http://www.socrative.com)
+* > Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
+* > E09: Quiz sobre Clasificadores básicos (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ### 4.3 LDA, QDA, Mahalanobis:
-* **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
-* Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
-* Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
+* > Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* > Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 ### 4.4 Clasificador de Bayes:
 * > Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 ### 4.5 Support vector machines:
@@ -55,4 +60,4 @@
 ---
 
 
-Updated on 15-May-2025 at 16:13 by Domingo Mery
+Updated on 19-May-2025 at 16:04 by Domingo Mery

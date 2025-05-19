@@ -173,7 +173,7 @@
 * 3.4 &nbsp; &nbsp; &nbsp;  Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.4 &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 * 3.4 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
-* 3.3 &nbsp; &nbsp; &nbsp;  E07: Quiz sobre Selección y Transformación(canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 3.3 &nbsp; &nbsp; &nbsp;  E07: Quiz sobre Selección y Transformación (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * 3.3 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 
 ### Clase 16 Ma. 13-May-2025:
@@ -203,16 +203,21 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 
 ### Clase 18 Ma. 20-May-2025:
-* 4.3 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
-* 4.3 Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
-* 4.3 Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
-* 4.1 Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* 4.2 Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
-* 4.1 Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
+* 4.1 **CLASIFICADORES BÁSICOS (cont)**
+* 4.1 &nbsp; &nbsp; &nbsp;  Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* 4.3 &nbsp; &nbsp; &nbsp;  Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp;  Video: Árboles de decisión (versión 2025) [[YouTube]]()
+* 4.3 &nbsp; &nbsp; &nbsp;  Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
+* 4.1 &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
+* 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
+* 4.1 &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
+* 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 
 ### Clase 19 Ju. 22-May-2025:
-* 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
-* 4.2 &nbsp; &nbsp; &nbsp;  Quiz [[Socrative]](http://www.socrative.com)
+* 4.1 **CLASIFICADORES BÁSICOS (cont)**
+* 4.1 &nbsp; &nbsp; &nbsp;  Video: Ejercicio E09 (versión 2025) [[YouTube]]()
+* 4.2 &nbsp; &nbsp; &nbsp;  E09: Quiz sobre Clasificadores básicos (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 
 ### Clase 20 Ma. 27-May-2025:
 * 4.6 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
@@ -281,4 +286,4 @@
 ---
 
 
-Updated on 15-May-2025 at 16:13 by Domingo Mery
+Updated on 19-May-2025 at 16:04 by Domingo Mery

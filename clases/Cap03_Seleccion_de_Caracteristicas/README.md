@@ -28,7 +28,7 @@
 * > Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * > Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/b1BBhid8G-k)
-* > E07: Quiz sobre Selección y Transformación(canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* > E07: Quiz sobre Selección y Transformación (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
@@ -56,4 +56,4 @@
 ---
 
 
-Updated on 15-May-2025 at 16:13 by Domingo Mery
+Updated on 19-May-2025 at 16:04 by Domingo Mery
