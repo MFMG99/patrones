@@ -1,19 +1,18 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Introduccion:
-* **CLASIFICADORES** 
+* **CLASIFICADORES BÁSICOS** 
 * > Video: Introducción a los clasificadores (versión 2025) [[YouTube]](https://youtu.be/z8NMm4FtDCs)
 * > Introducción a los clasificadores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
-* > **Clasificadores Básicos** 
 * > **Clasificadores KNN y DMIN** 
 * > **Clasificador de Bayes** 
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
-* >**Casificadores Básicos (cont)** 
-* >> **Clasificadores LDA, QDA, Mahalanobis** 
+* **CLASIFICADORES BÁSICOS (cont)** 
+* > **Clasificadores LDA, QDA, Mahalanobis** 
 * >> Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
-* >> **Clasificadores basados en árboles** 
-* > Video: Árboles de decisión (versión 2025) [[YouTube]]()
-* > Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
+* > **Clasificadores basados en árboles** 
+* >> Video: Árboles de decisión (versión 2025) [[YouTube]]()
+* > > Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * **CLASIFICADORES BÁSICOS (cont)** 
@@ -32,7 +31,7 @@
 * > E09: Quiz sobre Clasificadores básicos (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ### 4.3 LDA, QDA, Mahalanobis:
 * >> Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
-* > Arboles de decisión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
+* >> Arboles de decisión y Random Forest [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 ### 4.4 Clasificador de Bayes:
 * >> Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 ### 4.5 Support vector machines:
@@ -65,4 +64,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:15 by Domingo Mery
+Updated on 19-May-2025 at 16:19 by Domingo Mery
