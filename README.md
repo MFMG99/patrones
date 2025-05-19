@@ -142,7 +142,7 @@
 ### Clase 12 Ma. 22-Apr-2025:
 * 3.1 **SELECCIÓN DE CARACTERISTICAS (cont)**
 * 3.1 &nbsp; &nbsp; &nbsp;  Video: Métodos de Selección de Características (versión 2025) [[YouTube]](https://youtu.be/voVM8I39n6g)
-* 3.4 &nbsp; &nbsp; &nbsp;  Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
+* 3.4 &nbsp; &nbsp; &nbsp;  Búsqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.1 &nbsp; &nbsp; &nbsp;  Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * 3.5 &nbsp; &nbsp; &nbsp;  SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.5 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Selección de Caracteristicas [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
@@ -212,7 +212,7 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  **Clasificadores basados en árboles**
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Árboles de decisión (versión 2025) [[YouTube]]()
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Arboles de decisión y Random Forest [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
-* 4.1 &nbsp; &nbsp; &nbsp;  > Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -224,24 +224,30 @@
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 
 ### Clase 20 Ma. 27-May-2025:
+* 4.6 **CLASIFICADORES AVANZADOS (cont)**
+* 4.6 &nbsp; &nbsp; &nbsp;  **Redes Neuronales**
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Redes Neuronales (versión 2025) [[YouTube]]()
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Kq95OH9Vnu-prrhYeThaq6pDnupfEDOD/view)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libro: Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 4.6 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
-* 4.6 Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
-* 4.6 Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
-* 4.6 Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Kq95OH9Vnu-prrhYeThaq6pDnupfEDOD/view)
-* 4.6 Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr)
-* 4.6 Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
-* 4.6 Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 21 Ju. 29-May-2025:
-* 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
-* 4.5 Introducción a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
-* 4.5 Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
-* 4.5 Teroía sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
-* 4.5 Teroía sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
-* 4.5 Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
-* 4.5 Video de teroía de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* 4.5 Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
-* 4.7 E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
+* 4.6 **CLASIFICADORES AVANZADOS (cont)**
+* 4.6 &nbsp; &nbsp; &nbsp;  **SVM**
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SVM (versión 2025) [[YouTube]]()
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Introducción a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video de teroía de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
+* 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
 
 ### Clase 22 Ma. 03-Jun-2025:
 * 5.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
@@ -290,4 +296,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:19 by Domingo Mery
+Updated on 19-May-2025 at 16:27 by Domingo Mery
