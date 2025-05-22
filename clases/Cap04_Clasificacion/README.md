@@ -9,9 +9,9 @@
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * **CLASIFICADORES BÁSICOS (cont)** 
 * > **Clasificadores LDA, QDA, Mahalanobis** 
-* >> Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* >> Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]](https://youtu.be/al1DDy3FNU4)
 * > **Clasificadores basados en árboles** 
-* >> Video: Árboles de decisión (versión 2025) [[YouTube]]()
+* >> Video: Árboles de decisión (versión 2025) [[YouTube]](https://youtu.be/iZ8LWkguXMw)
 * >> Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -70,4 +70,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:41 by Domingo Mery
+Updated on 22-May-2025 at 14:47 by Domingo Mery

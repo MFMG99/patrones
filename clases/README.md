@@ -207,10 +207,10 @@
 ### Clase 18 Ma. 20-May-2025:
 * 4.1 **CLASIFICADORES BÁSICOS (cont)**
 * 4.1 &nbsp; &nbsp; &nbsp;  **Clasificadores LDA, QDA, Mahalanobis**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]]()
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clasificadores LDA, QDA, Mahalanobis (versión 2025) [[YouTube]](https://youtu.be/al1DDy3FNU4)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp;  **Clasificadores basados en árboles**
-* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Árboles de decisión (versión 2025) [[YouTube]]()
+* 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Árboles de decisión (versión 2025) [[YouTube]](https://youtu.be/iZ8LWkguXMw)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Arboles de decisión y Random Forest [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
@@ -296,4 +296,4 @@
 ---
 
 
-Updated on 19-May-2025 at 16:41 by Domingo Mery
+Updated on 22-May-2025 at 14:47 by Domingo Mery
