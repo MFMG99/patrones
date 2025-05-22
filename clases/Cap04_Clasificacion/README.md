@@ -16,7 +16,7 @@
 * > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * **CLASIFICADORES BÁSICOS (cont)** 
-* > Video: Ejercicio E09 (versión 2025) [[YouTube]]()
+* > Video: Ejercicio E09 (versión 2025) [[YouTube]](https://youtu.be/bhvbD-l_do4)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * >> **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
@@ -70,4 +70,4 @@
 ---
 
 
-Updated on 22-May-2025 at 14:47 by Domingo Mery
+Updated on 22-May-2025 at 15:35 by Domingo Mery

@@ -219,7 +219,7 @@
 
 ### Clase 19 Ju. 22-May-2025:
 * 4.1 **CLASIFICADORES BÁSICOS (cont)**
-* 4.1 &nbsp; &nbsp; &nbsp;  Video: Ejercicio E09 (versión 2025) [[YouTube]]()
+* 4.1 &nbsp; &nbsp; &nbsp;  Video: Ejercicio E09 (versión 2025) [[YouTube]](https://youtu.be/bhvbD-l_do4)
 * 4.2 &nbsp; &nbsp; &nbsp;  E09: Quiz sobre Clasificadores básicos (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 
@@ -296,4 +296,4 @@
 ---
 
 
-Updated on 22-May-2025 at 14:47 by Domingo Mery
+Updated on 22-May-2025 at 15:35 by Domingo Mery
