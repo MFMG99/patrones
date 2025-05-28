@@ -247,7 +247,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video de teroía de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
-* 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
+* 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
 
 ### Clase 22 Ma. 03-Jun-2025:
 * 5.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
