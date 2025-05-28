@@ -45,7 +45,7 @@
 ### 4.6 Redes neuronales:
 * **CLASIFICADORES AVANZADOS (cont)** 
 * > **Redes Neuronales** 
-* >> Video: Redes Neuronales (versión 2025) [[YouTube]]()
+* >> Video: Redes Neuronales (versión 2025) [[YouTube]](https://youtu.be/McnBWVyeA6E)
 * >> Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * >> Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * >> Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
@@ -57,7 +57,7 @@
 * > **SVM** 
 * >> Video: SVM (versión 2025) [[YouTube]]()
 ### 4.7 Deep Learning:
-* > E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
+* > E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 * Ejemplo CNN basico (detección de defectos) **new** [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
@@ -70,4 +70,4 @@
 ---
 
 
-Updated on 27-May-2025 at 10:49 by Domingo Mery
+Updated on 28-May-2025 at 18:39 by Domingo Mery

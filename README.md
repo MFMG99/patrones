@@ -226,7 +226,7 @@
 ### Clase 20 Ma. 27-May-2025:
 * 4.6 **CLASIFICADORES AVANZADOS (cont)**
 * 4.6 &nbsp; &nbsp; &nbsp;  **Redes Neuronales**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Redes Neuronales (versión 2025) [[YouTube]]()
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Redes Neuronales (versión 2025) [[YouTube]](https://youtu.be/McnBWVyeA6E)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
@@ -247,7 +247,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video de teroía de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
-* 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/osssso)
+* 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
 
 ### Clase 22 Ma. 03-Jun-2025:
 * 5.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
@@ -296,4 +296,4 @@
 ---
 
 
-Updated on 27-May-2025 at 10:49 by Domingo Mery
+Updated on 28-May-2025 at 18:39 by Domingo Mery
