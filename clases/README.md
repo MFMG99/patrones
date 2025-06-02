@@ -250,20 +250,20 @@
 * 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
 
 ### Clase 22 Ma. 03-Jun-2025:
-* 5.1 **EVALUACIÓN DE CLASIFICADORES** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
-* 5.1 &nbsp; &nbsp; &nbsp;  **Estimación de Accuracy** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 **EVALUACIÓN DE CLASIFICADORES**
+* 5.1 &nbsp; &nbsp; &nbsp;  **Estimación de Accuracy**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Estimación de Accuracy (versión 2025) [[YouTube]]()
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
-* 5.1 &nbsp; &nbsp; &nbsp;  **Selector de Modelos** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 &nbsp; &nbsp; &nbsp;  **Selector de Modelos**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Selector de Modelos (versión 2025) [[YouTube]]()
 * 5.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Selección de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 * 5.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
 * 5.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 
 ### Clase 23 Ju. 05-Jun-2025:
-* 5.1 **EVALUACIÓN DE CLASIFICADORES (cont)** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
-* 5.1 &nbsp; &nbsp; &nbsp;  **Matriz de Confusión** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 **EVALUACIÓN DE CLASIFICADORES (cont)**
+* 5.1 &nbsp; &nbsp; &nbsp;  **Matriz de Confusión**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Matriz de Confusuión (versión 2025) [[YouTube]]()
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matriz de Confusión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
@@ -305,4 +305,4 @@
 ---
 
 
-Updated on 02-Jun-2025 at 10:26 by Domingo Mery
+Updated on 02-Jun-2025 at 10:27 by Domingo Mery
