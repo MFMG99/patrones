@@ -267,9 +267,9 @@
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Matriz de Confusuión (versión 2025) [[YouTube]]()
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matriz de Confusión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
-* 5.5 Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
+* 5.5 &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
 * 4.2 &nbsp; &nbsp; &nbsp;  E11: Quiz sobre Evaluación de Clasificadores (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
-* 5.5 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
+* 5.5 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
 
 ### Clase 24 Ma. 10-Jun-2025:
 * 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
@@ -305,4 +305,4 @@
 ---
 
 
-Updated on 02-Jun-2025 at 10:27 by Domingo Mery
+Updated on 02-Jun-2025 at 10:44 by Domingo Mery

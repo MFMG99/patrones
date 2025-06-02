@@ -24,10 +24,10 @@
 ### 5.5 Hold-out, Validacion Cruzada, Leave-one-out:
 * >> Selección de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 * >> Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
-* Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
-* **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
+* > Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
+* > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
 ### 5.6 Ejemplos:
 ---
 
 
-Updated on 02-Jun-2025 at 10:27 by Domingo Mery
+Updated on 02-Jun-2025 at 10:44 by Domingo Mery
