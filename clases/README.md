@@ -201,7 +201,7 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
-* 4.2 &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
+* 4.2 &nbsp; &nbsp; &nbsp;  Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 
 ### Clase 18 Ma. 20-May-2025:
@@ -214,7 +214,7 @@
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Arboles de decisión y Random Forest [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * 4.2 &nbsp; &nbsp; &nbsp;  Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
-* 4.1 &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
+* 4.1 &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 
 ### Clase 19 Ju. 22-May-2025:
@@ -238,29 +238,38 @@
 ### Clase 21 Ju. 29-May-2025:
 * 4.6 **CLASIFICADORES AVANZADOS (cont)**
 * 4.6 &nbsp; &nbsp; &nbsp;  **SVM**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SVM (versión 2025) [[YouTube]]()
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: SVM (versión 2025) [[YouTube]](https://youtu.be/5UtlCFJeZWg)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Introducción a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video de teroía de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
+* 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
 
 ### Clase 22 Ma. 03-Jun-2025:
-* 5.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
-* 5.5 Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
-* 5.5 Ejemplo de estimación de accuracy [[Colab]](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
-* 5.5 Selección de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
+* 5.1 **EVALUACIÓN DE CLASIFICADORES** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 &nbsp; &nbsp; &nbsp;  *Estimación de Accuracy* [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Estimación de Accuracy (versión 2025) [[YouTube]]()
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
+* 5.1 &nbsp; &nbsp; &nbsp;  *Selector de Modelos* [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Selector de Modelos (versión 2025) [[YouTube]]()
+* 5.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Selección de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
+* 5.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Selector de Modelos [[Colab]](https://drive.google.com/file/d/1Fnbnda8AGgdP5fXfIv1B_hvrRM9sPCXv/view?usp=sharing)
+* 5.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 
 ### Clase 23 Ju. 05-Jun-2025:
-* 7.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
-* 5.2 Matriz de Confusión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-* 5.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
-* 7.1 Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
-* 5.5 &nbsp; &nbsp; &nbsp;  Quiz [[Socrative]](http://www.socrative.com)
+* 5.1 **EVALUACIÓN DE CLASIFICADORES (cont)** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 &nbsp; &nbsp; &nbsp;  *Matriz de Confusión* [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Matriz de Confusuión (versión 2025) [[YouTube]]()
+* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matriz de Confusión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
+* 5.5 Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
+* 4.2 &nbsp; &nbsp; &nbsp;  E11: Quiz sobre Evaluación de Clasificadores (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* 5.5 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
 
 ### Clase 24 Ma. 10-Jun-2025:
 * 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
@@ -296,4 +305,4 @@
 ---
 
 
-Updated on 28-May-2025 at 18:40 by Domingo Mery
+Updated on 02-Jun-2025 at 10:23 by Domingo Mery

@@ -13,7 +13,7 @@
 * > **Clasificadores basados en árboles** 
 * >> Video: Árboles de decisión (versión 2025) [[YouTube]](https://youtu.be/iZ8LWkguXMw)
 * >> Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
+* > Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * **CLASIFICADORES BÁSICOS (cont)** 
 * > Video: Ejercicio E09 (versión 2025) [[YouTube]](https://youtu.be/bhvbD-l_do4)
@@ -26,9 +26,10 @@
 * >> Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * >> Video: Clasificador de Bayes (versión 2025) [[YouTube]](https://youtu.be/9e3wtvQ_Jy8)
 * > Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
-* > Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
+* > Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
 * > Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * > E09: Quiz sobre Clasificadores básicos (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
+* > E11: Quiz sobre Evaluación de Clasificadores (canvas) [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ### 4.3 LDA, QDA, Mahalanobis:
 * >> Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * >> Arboles de decisión y Random Forest [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
@@ -41,7 +42,7 @@
 * >> Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * >> Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * >> Video de teroía de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* >> Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
+* >> Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 ### 4.6 Redes neuronales:
 * **CLASIFICADORES AVANZADOS (cont)** 
 * > **Redes Neuronales** 
@@ -55,7 +56,7 @@
 * >> **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * **CLASIFICADORES AVANZADOS (cont)** 
 * > **SVM** 
-* >> Video: SVM (versión 2025) [[YouTube]]()
+* >> Video: SVM (versión 2025) [[YouTube]](https://youtu.be/5UtlCFJeZWg)
 ### 4.7 Deep Learning:
 * > E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
@@ -70,4 +71,4 @@
 ---
 
 
-Updated on 28-May-2025 at 18:40 by Domingo Mery
+Updated on 02-Jun-2025 at 10:23 by Domingo Mery
