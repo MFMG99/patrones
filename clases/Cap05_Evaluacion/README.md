@@ -2,15 +2,15 @@
 # Capitulo 05: Evaluacion de Desempeno
 ### 5.1 Introduccion:
 * **EVALUACIÓN DE CLASIFICADORES** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
-* > *Estimación de Accuracy* [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* > **Estimación de Accuracy** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
 * >> Video: Estimación de Accuracy (versión 2025) [[YouTube]]()
 * >> Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * >> Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
-* > *Selector de Modelos* [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* > **Selector de Modelos** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
 * >> Video: Selector de Modelos (versión 2025) [[YouTube]]()
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 * **EVALUACIÓN DE CLASIFICADORES (cont)** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
-* > *Matriz de Confusión* [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
+* > **Matriz de Confusión** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
 * >> Video: Matriz de Confusuión (versión 2025) [[YouTube]]()
 * >> **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Md_eY5twq9c)
@@ -30,4 +30,4 @@
 ---
 
 
-Updated on 02-Jun-2025 at 10:23 by Domingo Mery
+Updated on 02-Jun-2025 at 10:26 by Domingo Mery
