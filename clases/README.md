@@ -248,6 +248,7 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 * 4.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
+* 4.7 &nbsp; &nbsp; &nbsp;  E10: Ejercicio 10 Solución (Colab) [[Colab]](https://colab.research.google.com/drive/1hdjxEatpkroBeEoClhVZ8r1N_y1SuI7E?usp=sharing)
 
 ### Clase 22 Ma. 03-Jun-2025:
 * 5.1 **EVALUACIÓN DE CLASIFICADORES**
@@ -305,4 +306,4 @@
 ---
 
 
-Updated on 02-Jun-2025 at 10:44 by Domingo Mery
+Updated on 03-Jun-2025 at 10:34 by Domingo Mery

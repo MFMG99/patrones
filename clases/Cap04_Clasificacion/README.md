@@ -59,6 +59,7 @@
 * >> Video: SVM (versión 2025) [[YouTube]](https://youtu.be/5UtlCFJeZWg)
 ### 4.7 Deep Learning:
 * > E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1sOICLV4OB3cyfSL1v1zW6gMkReYmLRdV?usp=sharing)
+* > E10: Ejercicio 10 Solución (Colab) [[Colab]](https://colab.research.google.com/drive/1hdjxEatpkroBeEoClhVZ8r1N_y1SuI7E?usp=sharing)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 * Ejemplo CNN basico (detección de defectos) **new** [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
@@ -71,4 +72,4 @@
 ---
 
 
-Updated on 02-Jun-2025 at 10:44 by Domingo Mery
+Updated on 03-Jun-2025 at 10:34 by Domingo Mery
