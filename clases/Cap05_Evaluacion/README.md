@@ -3,15 +3,15 @@
 ### 5.1 Introduccion:
 * **EVALUACIÓN DE CLASIFICADORES** 
 * > **Estimación de Accuracy** 
-* >> Video: Estimación de Accuracy (versión 2025) [[YouTube]]()
+* >> Video: Estimación de Accuracy (versión 2025) [[YouTube]](https://youtu.be/iyublV0mt8g)
 * >> Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * >> Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
 * > **Selector de Modelos** 
-* >> Video: Selector de Modelos (versión 2025) [[YouTube]]()
+* >> Video: Selector de Modelos (versión 2025) [[YouTube]](https://youtu.be/aiTFYUBo8IE)
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 * **EVALUACIÓN DE CLASIFICADORES (cont)** 
 * > **Matriz de Confusión** 
-* >> Video: Matriz de Confusuión (versión 2025) [[YouTube]]()
+* >> Video: Matriz de Confusuión (versión 2025) [[YouTube]](https://youtu.be/eM7wq1B7ubw)
 * >> **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 ### 5.2 Matriz de Confusion:
@@ -30,4 +30,4 @@
 ---
 
 
-Updated on 05-Jun-2025 at 10:46 by Domingo Mery
+Updated on 05-Jun-2025 at 15:50 by Domingo Mery
