@@ -11,7 +11,7 @@
 * > **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 * **EVALUACIÓN DE CLASIFICADORES (cont)** 
 * > **Matriz de Confusión** 
-* >> Video: Matriz de Confusuión (versión 2025) [[YouTube]](https://youtu.be/eM7wq1B7ubw)
+* >> Video: Matriz de Confusión (versión 2025) [[YouTube]](https://youtu.be/eM7wq1B7ubw)
 * >> **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 ### 5.2 Matriz de Confusion:
@@ -30,4 +30,4 @@
 ---
 
 
-Updated on 05-Jun-2025 at 15:50 by Domingo Mery
+Updated on 10-Jun-2025 at 10:26 by Domingo Mery

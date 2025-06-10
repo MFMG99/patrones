@@ -265,7 +265,7 @@
 ### Clase 23 Ju. 05-Jun-2025:
 * 5.1 **EVALUACIÓN DE CLASIFICADORES (cont)**
 * 5.1 &nbsp; &nbsp; &nbsp;  **Matriz de Confusión**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Matriz de Confusuión (versión 2025) [[YouTube]](https://youtu.be/eM7wq1B7ubw)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Video: Matriz de Confusión (versión 2025) [[YouTube]](https://youtu.be/eM7wq1B7ubw)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matriz de Confusión [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * 5.5 &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
@@ -273,6 +273,24 @@
 * 5.5 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/VwThW__AmsE)
 
 ### Clase 24 Ma. 10-Jun-2025:
+* 6.1 **CLUSTERING**
+* 6.1 &nbsp; &nbsp; &nbsp;  Video: Clustering (versión 2025) [[YouTube]]()
+* 6.2 &nbsp; &nbsp; &nbsp;  Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
+* 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
+* 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
+* 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
+* 6.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos de Clustering *new** [[Colab]](https://drive.google.com/file/d/1nNIJlhO4M5KXeFAKzBQ2dBljahjbz1UY/view?usp=sharing)
+* 6.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Face-Clusering **new** [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
+* 7.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
+
+### Clase 25 Ju. 12-Jun-2025:
+* 6.1 **CLUSTERING**
+* 6.1 &nbsp; &nbsp; &nbsp;  Bag of Words (versión 2025) [[YouTube]]()
+* 6.3 &nbsp; &nbsp; &nbsp;  BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
+* 6.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
+* 7.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
+
+### Clase 26 Ma. 17-Jun-2025:
 * 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 4.7 Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.7 Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
@@ -281,29 +299,13 @@
 * 4.7 Ejemplo CNN basico (perros y gatos) **new** [[Colab]](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO)
 * 4.7 Ejemplo CNN basico (clasificación de lunares - 2 clases) **new** [[Colab]](https://drive.google.com/file/d/1wvbWbDkdIyJ_JW9OcloE-s4dH5OH6knd)
 * 4.7 Ejemplo CNN basico (clasificación de lunares - 7 clases) **new** [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
-
-### Clase 25 Ju. 12-Jun-2025:
 * 5.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 * 7.1 Analisis Facial [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_DCC_Patrones.pptx?dl=0)
 * 5.3 Métricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3 Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3 Ejemplo de AdaFace y métricas de evaluación **new** [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
-
-### Clase 26 Ma. 17-Jun-2025:
-* 7.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
-* 6.2 Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
-* 6.2 Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
-* 6.2 Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
-* 6.2 Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
-* 6.2 Ejemplos de Clustering *new** [[Colab]](https://drive.google.com/file/d/16lyhMMN6aQKMxCHI9546j4xhts0D7JLE)
-* 6.2 Ejemplo de Face-Clusering **new** [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
-
-### Clase 27 Ju. 19-Jun-2025:
-* 7.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
-* 6.3 BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
-* 6.3 Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
 * 6.3 &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ---
 
 
-Updated on 05-Jun-2025 at 15:50 by Domingo Mery
+Updated on 10-Jun-2025 at 10:26 by Domingo Mery
