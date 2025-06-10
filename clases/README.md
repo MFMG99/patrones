@@ -279,12 +279,12 @@
 * 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
-* 6.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos de Clustering *new** [[Colab]](https://drive.google.com/file/d/1nNIJlhO4M5KXeFAKzBQ2dBljahjbz1UY/view?usp=sharing)
-* 6.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Face-Clusering **new** [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
+* 6.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplos de Clustering [[Colab]](https://drive.google.com/file/d/1nNIJlhO4M5KXeFAKzBQ2dBljahjbz1UY/view?usp=sharing)
+* 6.2 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Face-Clusering [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
 * 7.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
 
 ### Clase 25 Ju. 12-Jun-2025:
-* 6.1 **CLUSTERING**
+* 6.1 **CLUSTERING (cont)**
 * 6.1 &nbsp; &nbsp; &nbsp;  Bag of Words (versión 2025) [[YouTube]]()
 * 6.3 &nbsp; &nbsp; &nbsp;  BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
@@ -308,4 +308,4 @@
 ---
 
 
-Updated on 10-Jun-2025 at 10:26 by Domingo Mery
+Updated on 10-Jun-2025 at 10:58 by Domingo Mery
