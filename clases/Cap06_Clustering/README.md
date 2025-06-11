@@ -2,7 +2,7 @@
 # Capitulo 06: Clustering
 ### 6.1 Introduccion:
 * **CLUSTERING** 
-* > Video: Clustering (versión 2025) [[YouTube]]()
+* > Video: Clustering (versión 2025) [[YouTube]](https://youtu.be/z0pM8gUYvfA)
 * **CLUSTERING (cont)** 
 * > Bag of Words (versión 2025) [[YouTube]]()
 ### 6.2 K-means, Mean Shift, Mixture of Gaussians, Hierarchical:
@@ -20,4 +20,4 @@
 ---
 
 
-Updated on 10-Jun-2025 at 10:58 by Domingo Mery
+Updated on 11-Jun-2025 at 10:22 by Domingo Mery

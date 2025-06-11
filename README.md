@@ -274,7 +274,7 @@
 
 ### Clase 24 Ma. 10-Jun-2025:
 * 6.1 **CLUSTERING**
-* 6.1 &nbsp; &nbsp; &nbsp;  Video: Clustering (versión 2025) [[YouTube]]()
+* 6.1 &nbsp; &nbsp; &nbsp;  Video: Clustering (versión 2025) [[YouTube]](https://youtu.be/z0pM8gUYvfA)
 * 6.2 &nbsp; &nbsp; &nbsp;  Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * 6.2 &nbsp; &nbsp; &nbsp;  Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
@@ -308,4 +308,4 @@
 ---
 
 
-Updated on 10-Jun-2025 at 10:58 by Domingo Mery
+Updated on 11-Jun-2025 at 10:22 by Domingo Mery
