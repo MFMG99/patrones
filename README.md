@@ -285,7 +285,7 @@
 
 ### Clase 25 Ju. 12-Jun-2025:
 * 6.1 **CLUSTERING (cont)**
-* 6.1 &nbsp; &nbsp; &nbsp;  Bag of Words (versión 2025) [[YouTube]]()
+* 6.1 &nbsp; &nbsp; &nbsp;  Bag of Words (versión 2025) [[YouTube]](https://youtu.be/t3jXfdyHIT8)
 * 6.3 &nbsp; &nbsp; &nbsp;  BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3 &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 * 7.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
