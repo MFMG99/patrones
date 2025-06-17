@@ -291,7 +291,7 @@
 * 7.1 &nbsp; &nbsp; &nbsp;  **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 
 ### Clase 26 Ma. 17-Jun-2025:
-* 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
+* 7.1 &nbsp; &nbsp; &nbsp;  Deep Learning y Reconocimiento Facial (versión 2025) [[YouTube]](https://youtu.be/7pRuq1molFE)
 * 4.7 Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.7 Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
 * 4.7 Ejemplo CNN basico (detección de defectos) **new** [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
@@ -304,8 +304,9 @@
 * 5.3 Métricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3 Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3 Ejemplo de AdaFace y métricas de evaluación **new** [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
+* 4.1 **Video de esta clase (versión 2021)** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 6.3 &nbsp; &nbsp; &nbsp;  Quiz [[Canvas]](https://cursos.canvas.uc.cl/courses/82169/assignments)
 ---
 
 
-Updated on 11-Jun-2025 at 10:22 by Domingo Mery
+Updated on 17-Jun-2025 at 13:20 by Domingo Mery
